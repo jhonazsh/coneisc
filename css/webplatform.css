@@ -4,6 +4,7 @@ body
 }
 
 
+
 /* Bloque jhonazsh */
 .contenido-tematico{
 	border-bottom: 1px solid #464646;
@@ -12,3 +13,46 @@ body
 .centrar{
 	text-align: center;
 }
+
+/*CESAR*/
+.titulo{
+	color: #000;
+}
+.titulo:hover{
+	color: #108A93;
+}
+.opciones>li>a{
+	color: #777;
+}
+.opciones>li>a:hover{
+	background-color: #FFF;
+	color: #000;
+}
+.contenedor{
+	/*width: 100%;*/
+	background-color: #108A93;
+	color: #FFF;
+	padding: 20px;
+}
+.titulo-2{
+	font-size: 50px;
+}
+.centrar{
+	text-align: center;
+}
+/*FIN CESAR*/
+
+
+/*ponentes....**********/
+.img-ponente{
+	width: 250px;
+}
+
+.centrar-boton{
+	/*margin: 0 auto;*/
+	text-align: center;
+}
+
+/*ponentes....**********/
+
+>>>>>>> 6b317fc4691094ba5a2a55b42fdda084bde5f3ca
