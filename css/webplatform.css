@@ -6,12 +6,35 @@ body
 
 
 /* Bloque jhonazsh */
-.contenido-tematico{
-	border-bottom: 1px solid #464646;
-}
-
 .centrar{
 	text-align: center;
+}
+
+.temas{
+	text-align: justify;
+}
+
+.contenido-tematico, .sponsor, .otros{
+	border-top: 1px solid #D3CCCC;
+}
+
+.contenido-tematico{
+	background-color: rgb(232, 232, 225);
+}
+
+.otros{
+	background-color: white;
+	height: 200px;
+}
+
+.sponsor{
+	background-color: white;
+	height: 200px;
+}
+
+.footer{
+	height: 50px;
+	background-color: #464646;
 }
 
 /*CESAR*/
