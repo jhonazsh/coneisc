@@ -2,3 +2,16 @@ body
 {
     padding-top: 60px;
 }
+
+
+/*ponentes....**********/
+.img-ponente{
+	width: 250px;
+}
+
+.centrar-boton{
+	/*margin: 0 auto;*/
+	text-align: center;
+}
+
+/*ponentes....**********/
