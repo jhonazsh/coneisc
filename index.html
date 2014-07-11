@@ -12,42 +12,58 @@
 </head>
 <body>
 	<!--CESAR-->
-	<div class="navbar navbar-fixed-top" role="navigation">
-	    <div class="container">
-	        <div class="navbar-header">
-	            <button type="button" class="navbar-toggle colornegro" data-toggle="collapse" data-target=".navbar-collapse">
-	                <span class="sr-only">Toggle navigation</span>
-	                <span class="icon-bar"></span>
-	                <span class="icon-bar"></span>
-	                <span class="icon-bar"></span>
-	            </button>
-	            <a class="navbar-brand titulo" href="{% url 'home:home' %}">XXII CONEISC</a>
-	        </div>
-	        <div class="collapse navbar-collapse">
-	            <ul class="nav navbar-nav pull-right opciones">
-	                <li><a href="{% url 'login' %}">Inicio</a></li>
-	                <li><a href="#">Ponentes</a></li>
-	                <li><a href="#">Eventos</a></li>
-	                <li><a href="#">Inscripciones</a></li>
-	                <li><a href="#">Trujillo</a></li>
-	                <li><a href="#">Contacto</a></li>
-	            </ul>
-	        </div>
-	    </div>
-	</div>
+	<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="row ">    
+            <div class=" col-ms-12 col-md-offset-1 col-md-10"> 
+                <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <a class="navbar-brand " href="index.html"><span class="titulo">XXII CONEISC</span></a>
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-bootsnipp-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                        <!-- Collect the nav links, forms, and other content for toggling -->
+                    <div class="collapse navbar-collapse navbar-bootsnipp-collapse">
+                        <ul class="nav navbar-nav navbar-right opciones">
+                            <li class="">
+                                <a class="" href="index.html">INICIO</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li class="">
+                                <a class="" href="ponentes.html">PONENTES</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li class="">
+                                <a class="" href="cronograma.html">CRONOGRAMA</a>
+                            </li>
+                            <li class="">
+                                <a class="" href="cronograma.html">TRUJILLO</a>
+                            </li>
+                            <li class="divider"></li>
+                            <li class="">
+                                <a class="" href="contactanos.html">CONTÁCTANOS</a>
+                            </li>
+	                    </ul>
+	                </div><!-- /.navbar-collapse -->
+		        </div>
+            </div>
+        </div>
+	</nav>
 	<div class="contenedor">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<span class="titulo-2">XXII CONEISC 2014</span>
-					<h2>"Gestión del conocimiento con el desarrollo de tecnologías bajo el entorno web"</h2>
-					<br>
-					<div class="centrar"><button type="button" class="btn btn-default">Inscríbete</button></div>					
+					<img src="img/img01.png">
+					<div class="centrar"><button type="button" class="btn btn-info boton-insc"><span class="glyphicon glyphicon-pencil"></span> INSCRÍBETE</button></div>					
 				</div>
 			</div>
 		</div>
 	</div>
-	<!--FIN CESAR-->
+	<!--FIN CESAR--> 
 
     <!-- blok de ponentes+*************-->
    	<section>
@@ -55,32 +71,63 @@
    			<h3><span class="glyphicon glyphicon-user"></span> Ponentes </h3>
    			<br>
    			<div class="row">
-   				<div class="col-xs-6 col-sm-4 col-md-3">
-   					<div class="thumbnail">
-   						<img src="img/ponentes/teffy.jpg" class="img-circle img-ponente" alt="">
-   						<h4 class="text-center">Lic. STEPHANIE FALLA</h4>
-   					</div>
+   				<div class="col-xs-6 col-sm-3 col-md-2">
+   					
+   						<img src="img/ponentes/teffy.jpg" class="img-circle img-ponente img-responsive" alt="">
+   						<div class="centrar-bandera">
+   							<img class="img-bandera" src="img/ponentes/guatemala.jpg" alt="">
+   						</div>
+   						<h4 class="text-center">Lic. Stephanie Falla</h4>
+   						
    				</div>
-   				<div class="col-xs-6 col-sm-4 col-md-3">
-   					<div class="thumbnail">
-   						<img src="img/ponentes/avid.jpg" class="img-circle img-ponente" alt="">
-   						<h4 class="text-center">Phd. AVID ROMÁN</h4>
-   					</div>
+   				<div class="col-xs-6 col-sm-3 col-md-2">
+   					
+   						<img src="img/ponentes/avid.jpg" class="img-circle img-ponente img-responsive" alt="">
+   						<div class="centrar-bandera">
+   							<img class="img-bandera" src="img/ponentes/francia.jpg" alt="">
+   						</div>
+   						<h4 class="text-center">Phd. Avid Román</h4>
+   					
    				</div>
-   				<div class="col-xs-6 col-sm-4 col-md-3 hidden-xs">
-   					<div class="thumbnail">
-   						<img src="img/ponentes/monica.jpg" class="img-circle img-ponente" alt="">
-   						<h4 class="text-center">Dra. MÓNICA WODZISLAWSKI</h4>
-   					</div>
+   				<div class="col-xs-6 col-sm-3 col-md-2 hidden-xs">
+   					
+   						<img src="img/ponentes/monica.jpg" class="img-circle img-ponente img-responsive" alt="">
+   						<div class="centrar-bandera">
+   							<img class="img-bandera" src="img/ponentes/uruguay.jpg" alt="">
+   						</div>
+   						<h4 class="text-center">Dra. Mónica Wodzislawski</h4>
+   					
    				</div>
-   				<div class="col-xs-6 col-sm-4 col-md-3 hidden-xs hidden-sm">
-   					<div class="thumbnail">
-   						<img src="img/ponentes/nelsonpiedra.jpg" class="img-circle img-ponente" alt="">
-   						<h4 class="text-center">Dr. NELSON PIEDRA</h4>
-   					</div>
+   				<div class="col-xs-6 col-sm-3 col-md-2 hidden-xs">
+   					
+   						<img src="img/ponentes/nelsonpiedra.jpg" class="img-circle img-ponente img-responsive" alt="">
+   						<div class="centrar-bandera">
+   							<img class="img-bandera" src="img/ponentes/ecuador.jpg" alt="">
+   						</div>
+   						<h4 class="text-center">Dr. Nelson Piedra</h4>
+   					
+   				</div>
+   				<div class="col-xs-6 col-sm-3 col-md-2 hidden-xs hidden-sm">
+   					
+   						<img src="img/ponentes/nelsonangeles.jpg" class="img-circle img-ponente img-responsive" alt="">
+   						<div class="centrar-bandera">
+   							<img class="img-bandera" src="img/ponentes/peru.jpg" alt="">
+   						</div>
+   						<h4 class="text-center">Ing. Nelson Angeles</h4>
+   					
+   				</div>
+   				<div class="col-xs-6 col-sm-3 col-md-2 hidden-xs hidden-sm">
+   					
+   						<img src="img/ponentes/michaelarias.jpg" class="img-circle img-ponente img-responsive" alt="">
+   						<div class="centrar-bandera">
+   							<img class="img-bandera" src="img/ponentes/costarica.jpg" alt="">
+   						</div>
+   						<h4 class="text-center">Mg. Michael Arias</h4>
+   					
    				</div>
    				
    			</div>
+   			<br>
    			<div class="centrar-boton">
    				<a href="" class="btn btn-primary"><h4>Ver ponentes &rarr;</h4></a>
    			</div>

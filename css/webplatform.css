@@ -39,14 +39,18 @@ body
 .titulo{
 	color: #000;
 }
-.titulo:hover{
-	color: #108A93;
-}
 .opciones>li>a{
 	color: #777;
 }
-.opciones>li>a:hover{
-	background-color: #FFF;
+.resaltar{
+	background-color: #108A93;
+}
+.resaltar:hover{
+	background-color: #11A0AA;
+}
+.boton-menu:hover{
+	background-color: #108A93;
+	border-radius: 8px;
 	color: #000;
 }
 .contenedor{
@@ -54,6 +58,8 @@ body
 	background-color: #108A93;
 	color: #FFF;
 	padding: 20px;
+	background-image: url(../img/portada/img01.png);
+	height: 461px;
 }
 .titulo-2{
 	font-size: 50px;
@@ -61,19 +67,37 @@ body
 .centrar{
 	text-align: center;
 }
+.letra-blanca{
+	color: white;
+}
+.boton-insc{
+	padding: 10px;
+	width: 220px;	
+	height: 60px;
+	font-weight: bold; 
+	font-size: 20px;
+	margin-bottom: 0px;
+	/*background-color: #108A93;*/
+}
 /*FIN CESAR*/
 
 
 /*ponentes....**********/
 .img-ponente{
-	width: 250px;
+	/*width: 180px;*/
 }
 
 .centrar-boton{
-	/*margin: 0 auto;*/
 	text-align: center;
 }
 
-/*ponentes....**********/
+.centrar-bandera{
+	text-align: center;
+}
 
->>>>>>> 6b317fc4691094ba5a2a55b42fdda084bde5f3ca
+.img-bandera{
+	text-align: center;
+	width: 30px;
+}
+
+/*ponentes....**********/
