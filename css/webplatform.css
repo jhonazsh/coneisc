@@ -3,6 +3,7 @@ body
     padding-top: 60px;
 }
 
+
 /*CESAR*/
 .titulo{
 	color: #000;
@@ -30,3 +31,17 @@ body
 	text-align: center;
 }
 /*FIN CESAR*/
+
+
+/*ponentes....**********/
+.img-ponente{
+	width: 250px;
+}
+
+.centrar-boton{
+	/*margin: 0 auto;*/
+	text-align: center;
+}
+
+/*ponentes....**********/
+
