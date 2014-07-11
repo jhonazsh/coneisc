@@ -60,6 +60,8 @@ body
 	background-color: #108A93;
 	color: #FFF;
 	padding: 20px;
+	background-image: url(../img/portada/img01.png);
+	height: 461px;
 }
 .titulo-2{
 	font-size: 50px;
@@ -76,6 +78,8 @@ body
 	height: 60px;
 	font-weight: bold; 
 	font-size: 20px;
+	margin-bottom: 0px;
+	/*background-color: #108A93;*/
 }
 /*FIN CESAR*/
 
