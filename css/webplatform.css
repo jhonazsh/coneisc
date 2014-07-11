@@ -68,12 +68,20 @@ body
 
 /*ponentes....**********/
 .img-ponente{
-	width: 250px;
+	width: 180px;
 }
 
 .centrar-boton{
-	/*margin: 0 auto;*/
 	text-align: center;
+}
+
+.centrar-bandera{
+	text-align: center;
+}
+
+.img-bandera{
+	text-align: center;
+	width: 30px;
 }
 
 /*ponentes....**********/
