@@ -18,21 +18,42 @@ body
 	border-top: 1px solid #D3CCCC;
 }
 
+.ponentes{
+	background-color: rgb(255, 238, 238);
+}
+
 .contenido-tematico{
 	background-color: rgb(232, 232, 225);
 }
 
-.organizadores{
-	background-color: rgb(232, 232, 225);
+.eventos{
+	background-color: rgb(255, 238, 238);
 }
 
 .sponsor{
+	background-color: rgb(232, 232, 225);
+}
+
+.organizadores{
 	background-color: rgb(255, 238, 238);
 }
 
 .footer{
 	height: 50px;
 	background-color: #464646;
+}
+
+.icon-center{
+	text-align: center;
+}
+
+.icon-estilo{
+	font-size: 3em;
+	color: rgb(139, 165, 135);
+}
+
+.content-event{
+	text-align: center;
 }
 
 /*CESAR*/
