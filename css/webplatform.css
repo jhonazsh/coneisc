@@ -127,13 +127,13 @@ body
 
 .centrar-bandera{
 	text-align: center;
-	margin-top: -30px;
-	margin-left: 100px;
+	margin-top: -35px;
+	/*margin-left: 110px;*/
 }
 
 .img-bandera{
 	text-align: center;
-	width: 30px;
+	width: 45px;
 }
 
 /*ponentes....**********/
