@@ -75,12 +75,11 @@ body
 	color: #000;
 }
 .contenedor{
-	/*width: 100%;*/
-	background-color: #108A93;
+	/*width: 100%;
+	background-color: #108A93;*/
 	color: #FFF;
-	padding: 20px;
-	background-image: url(../img/portada/img01.png);
-	height: 461px;
+	/*padding: 20px;
+	background-image: url(../img/portada/img01.png);*/
 }
 .titulo-2{
 	font-size: 50px;
@@ -91,14 +90,29 @@ body
 .letra-blanca{
 	color: white;
 }
+.navbar{
+	padding: 4px;
+	border-bottom: 1px solid #108A93;
+}
+.bordesup{
+	border-top: 10px solid #108A93;
+}
+.bordeinf{
+	border-bottom:  10px solid #108A93;
+}
 .boton-insc{
-	padding: 10px;
-	width: 220px;	
-	height: 60px;
-	font-weight: bold; 
+	padding: 20px;
 	font-size: 20px;
 	margin-bottom: 0px;
-	/*background-color: #108A93;*/
+	background: #268C63;
+	color: #FFF;
+}
+.boton-insc:hover{
+	background: #2DA877;
+	color: #FFF;
+}
+.color{
+	color: #108A93;
 }
 /*FIN CESAR*/
 
