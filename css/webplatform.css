@@ -132,12 +132,20 @@ body
 .centrar-bandera{
 	text-align: center;
 	margin-top: -35px;
-	/*margin-left: 110px;*/
+}
+
+.posicion-bandera{
+	text-align: center;
 }
 
 .img-bandera{
 	text-align: center;
 	width: 45px;
+}
+
+.img-derecha{
+	float: right;
+	width: 75px;
 }
 
 .caja-ponente{
