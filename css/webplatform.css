@@ -136,4 +136,15 @@ body
 	width: 45px;
 }
 
+.caja-ponente{
+	background: #108A93;
+	padding: 1.5em;
+}
+
+.caja-ponente-detalle{
+	background: #F5F5F6;
+	padding: 1.5em;
+	border-radius: .8em;
+}
+
 /*ponentes....**********/
