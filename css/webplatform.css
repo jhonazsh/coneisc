@@ -107,7 +107,7 @@ body
 	color: white;
 }
 .navbar{
-	padding: 4px;
+	padding: 5px;
 	border-bottom: 1px solid #108A93;
 }
 .bordesup{
@@ -130,27 +130,102 @@ body
 .color{
 	color: #108A93;
 }
+.imgportada{
+	width: 100%;
+}
+.anchofull{
+	margin: 0;
+	width: 80%;
+	left: 20px;
+}
+.subir{
+	background: url('../img/portada/plazaarmas.png');
+}
+.letrasalsa{
+	font-family: 'Salsa', cursive;
+	color: #FFF;
+}
+.tabla{
+	opacity: 0.8;
+}
+.tabla-header, .tabla-precios{
+	width: 150px;
+	text-align: center;
+	border-bottom: 2px solid #FFF;
+	color: #FFF;
+	padding: 5px;
+}
+.tb-color{
+	background-color: #108A93;
+}
+.tb-activo{
+	background-color: #268C63;
+	border-bottom: 2px solid #FFF;
+	border-right: 2px solid #FFF;
+	border-left: 2px solid #FFF;
+}
+.port-cuenta{
+	color: #FFF;
+	padding: 1px 10px;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.7);
+}
+.port-cuenta>h3, .port-cuenta>img{
+	display: inline-block;
+	vertical-align: middle;
+}
+
 /*FIN CESAR*/
 
 
 /*ponentes....**********/
 .img-ponente{
-	/*width: 180px;*/
+	width: 200px;
 }
 
 .centrar-boton{
 	text-align: center;
 }
 
+.derecha-boton{
+	text-align: right;
+}
+
 .centrar-bandera{
 	text-align: center;
 	margin-top: -35px;
-	/*margin-left: 110px;*/
+}
+
+.posicion-bandera{
+	text-align: center;
 }
 
 .img-bandera{
 	text-align: center;
 	width: 45px;
 }
+
+.img-derecha{
+	float: right;
+	width: 75px;
+}
+
+.caja-ponente{
+	background: #108A93;
+	padding: 1.5em;
+}
+
+.caja-ponente-detalle{
+	background: #F5F5F6;
+	padding: 1.5em 3em;
+	border-radius: .8em;
+	margin-bottom: 2em;
+}
+
+/*@media screen and (max-width: 768px){
+	.content-band{
+		padding: 0 auto;
+	}
+}*/
 
 /*ponentes....**********/
