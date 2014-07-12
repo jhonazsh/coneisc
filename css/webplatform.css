@@ -90,7 +90,7 @@ body
 	color: white;
 }
 .navbar{
-	padding: 4px;
+	padding: 5px;
 	border-bottom: 1px solid #108A93;
 }
 .bordesup{
@@ -113,6 +113,51 @@ body
 .color{
 	color: #108A93;
 }
+.imgportada{
+	width: 100%;
+}
+.anchofull{
+	margin: 0;
+	width: 80%;
+	left: 20px;
+}
+.subir{
+	background: url('../img/portada/plazaarmas.png');
+}
+.letrasalsa{
+	font-family: 'Salsa', cursive;
+	color: #FFF;
+}
+.tabla{
+	opacity: 0.8;
+}
+.tabla-header, .tabla-precios{
+	width: 150px;
+	text-align: center;
+	border-bottom: 2px solid #FFF;
+	color: #FFF;
+	padding: 5px;
+}
+.tb-color{
+	background-color: #108A93;
+}
+.tb-activo{
+	background-color: #268C63;
+	border-bottom: 2px solid #FFF;
+	border-right: 2px solid #FFF;
+	border-left: 2px solid #FFF;
+}
+.port-cuenta{
+	color: #FFF;
+	padding: 1px 10px;
+	border-radius: 5px;
+	background-color: rgba(0,0,0,0.7);
+}
+.port-cuenta>h3, .port-cuenta>img{
+	display: inline-block;
+	vertical-align: middle;
+}
+
 /*FIN CESAR*/
 
 
