@@ -16,29 +16,14 @@ body
 	text-align: justify;
 }
 
-.contenido-tematico, .sponsor, .organizadores{
-	border-top: 1px solid #D3CCCC;
+.ponentes, .eventos, .organizadores{
+	background-color: rgba(70, 70, 70, 0.15);
 }
 
-.ponentes{
-	background-color: rgb(255, 238, 238);
+.contenido-tematico, .sponsor{
+	background-color: rgba(70, 70, 70, 0.06);
 }
 
-.contenido-tematico{
-	background-color: rgb(232, 232, 225);
-}
-
-.eventos{
-	background-color: rgb(255, 238, 238);
-}
-
-.sponsor{
-	background-color: rgb(232, 232, 225);
-}
-
-.organizadores{
-	background-color: rgb(255, 238, 238);
-}
 
 .footer{
 	height: 50px;
@@ -56,6 +41,18 @@ body
 
 .content-event{
 	text-align: center;
+}
+
+.headtitle{
+	background-color: rgb(238, 217, 123);
+	color: white;
+	width: 20%;
+	margin: 0 auto;
+	padding: 0.2em 0;
+}
+
+.headevent{
+	font-size: 1.3em;
 }
 
 /*CESAR*/
