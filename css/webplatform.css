@@ -118,11 +118,15 @@ body
 
 /*ponentes....**********/
 .img-ponente{
-	/*width: 180px;*/
+	width: 200px;
 }
 
 .centrar-boton{
 	text-align: center;
+}
+
+.derecha-boton{
+	text-align: right;
 }
 
 .centrar-bandera{
@@ -143,8 +147,9 @@ body
 
 .caja-ponente-detalle{
 	background: #F5F5F6;
-	padding: 1.5em;
+	padding: 1.5em 3em;
 	border-radius: .8em;
+	margin-bottom: 2em;
 }
 
 /*ponentes....**********/
