@@ -140,15 +140,20 @@ body
 	text-align: center;
 }
 
+.montserrat {
+	font-family: "Montserrat";
+}
+
 .pasos-inscripcion {
 	background: rgba(0, 162, 244,1);
-	border-radius: 1em;
+	border-radius: 1.5em;
 	color: white;
-	padding: .5em;
+	padding: .3em .75em;
 	font-size: .8em; 
-	width: 1em;
-	height: 1em;
-	display: block;
+	width: 1.5em;
+	height: 1.5em;
+	/*display: block;*/
+	/*float: left;*/
 }
 
 /* Bloque jhonazsh */
