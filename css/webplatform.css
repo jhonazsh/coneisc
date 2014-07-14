@@ -29,6 +29,15 @@ body
 	background-size: cover;
 }
 
+.banner-inscripcion {
+	height: 200px;
+}
+
+.banner-inscripcion .container-banner {
+	height: 200px;
+	padding: 25px; 
+}
+
 .titulo-principal {
 	color: white;
 	font-size: 3em;
@@ -106,21 +115,40 @@ body
 	color: #888888;
 }
 
-.eventos {
+.eventos, .organizadores {
 	padding: 3em 0 0 0;
 	background-color: rgba(0, 162, 244,0.05);
 	border-top: 1px solid rgba(0, 162, 244,0.15);
 	border-bottom: 1px solid rgba(0, 162, 244,0.15);
 }
 
-.sponsor {
-	padding: 3em 0;
-}
-.sponsor img {
+.organizadores {
+	padding: 1em 0 3em 0;
 }
 
-.img-responsive {
-	max-width: 100%;
+.sponsor {
+	padding: 2em 0;
+}
+
+.sponsor .btn, .organizadores .btn {
+	margin: 1.5em auto 2.5em auto;
+}
+.sponsor img {
+	width: 120px;
+	margin: 0 .5em;
+	display: inline-block;
+	text-align: center;
+}
+
+.pasos-inscripcion {
+	background: rgba(0, 162, 244,1);
+	border-radius: 1em;
+	color: white;
+	padding: .5em;
+	font-size: .8em; 
+	width: 1em;
+	height: 1em;
+	display: block;
 }
 
 /* Bloque jhonazsh */
