@@ -1,27 +1,136 @@
 body
 {
-    padding-top: 60px;
-    font-family: "Calibri";
-    font-size: 16px;
+    margin-top: 50px;
+    font-family: "Open Sans", "Calibri";
+    font-size: 15px;
 }
 
+.navbar {
+	border-bottom: none;
+}
 
+.navbar-default {
+	background: #fff;
+}
+
+.container-banner {
+	/*background: rgba(0, 162, 244,0.75);*/
+	background:rgba(0,0,0,0.5);
+	height: 500px;
+	padding-top: 150px;
+}
+
+.banner {
+	background: url("../img/portada/plazaarmas.jpg") no-repeat scroll center bottom rgba(255,255,255,0.8);
+	width: 100%;
+	height: 500px;
+	overflow: hidden;
+	display: block;
+	background-size: cover;
+}
+
+.titulo-principal {
+	color: white;
+	font-size: 3em;
+	font-family: "Montserrat";
+}
+
+.color-blanco {
+	color: #fff;
+	font-size: 1.2em;
+}
+
+.parrafo-principal {
+	margin-bottom: 1em;
+}
+
+.btn {
+	color: #fff;
+	background-color: transparent;
+	border: 2px solid #fff;
+	width: 200px;
+	font-size: 18px;
+	border-radius: 0;
+	margin: .2em auto;
+	font-family: "Montserrat";
+}
+
+.btn-cro {
+	background: #fff;
+	color: #444;
+}
+
+.btn-negro {
+	color: #888;
+	border-color: #888;
+	display: block;
+	margin-top: 1.5em;
+}
+
+.btn:hover, .btn-azul {
+	background: rgba(0, 162, 244,1);
+	color: white;
+	border-color: rgba(0, 162, 244,1);
+}
+
+.oferta {
+	background: rgba(0, 162, 244,0.75);
+	/*border: 2px solid white;*/
+	height: 250px;
+	width: 250px;
+	border-radius: 250px;
+	margin: -50px auto 0 auto;
+	position: relative;
+	padding: 3.5em 2em;
+	color: white;
+	font-family: "Montserrat";
+}
+.oferta h3 {
+	border-bottom: 2px solid white;
+}
+
+.tematica {
+	padding: 1em 0;
+	color: #444;
+}
+
+.tematica h3 {
+	font-family: "Montserrat";
+}
+
+.temas {
+	margin: 2em 0;
+}
+
+.temas p {
+	color: #888888;
+}
+
+.eventos {
+	padding: 3em 0 0 0;
+	background-color: rgba(0, 162, 244,0.05);
+	border-top: 1px solid rgba(0, 162, 244,0.15);
+	border-bottom: 1px solid rgba(0, 162, 244,0.15);
+}
+
+.sponsor {
+	padding: 3em 0;
+}
+.sponsor img {
+}
+
+.img-responsive {
+	max-width: 100%;
+}
 
 /* Bloque jhonazsh */
-.centrar{
-	text-align: center;
-}
-
-.temas{
-	text-align: justify;
-}
 
 .ponentes, .eventos, .organizadores{
-	background-color: rgba(70, 70, 70, 0.15);
+	/*background-color: rgba(70, 70, 70, 0.15);*/
 }
 
 .contenido-tematico, .sponsor{
-	background-color: rgba(70, 70, 70, 0.06);
+	/*background-color: rgba(70, 70, 70, 0.06);*/
 }
 
 
@@ -106,10 +215,7 @@ body
 .letra-blanca{
 	color: white;
 }
-.navbar{
-	padding: 5px;
-	border-bottom: 1px solid #108A93;
-}
+
 .bordesup{
 	border-top: 10px solid #108A93;
 }
@@ -127,9 +233,7 @@ body
 	background: #2DA877;
 	color: #FFF;
 }
-.color{
-	color: #108A93;
-}
+
 .imgportada{
 	width: 100%;
 }
@@ -142,7 +246,7 @@ body
 	background: url('../img/portada/plazaarmas.png');
 }
 .letrasalsa{
-	font-family: 'Salsa', cursive;
+	/*font-family: 'Salsa', cursive;*/
 	color: #FFF;
 }
 .tabla{
