@@ -156,6 +156,32 @@ body
 	/*float: left;*/
 }
 
+.titulo-derecha{
+	text-align: right; 
+}
+
+.panel-customize{
+	border: 1px solid rgba(193, 200, 203, 0.29);
+}
+
+.color-text{
+	color: #fff;
+}
+
+.panel-body-customize{
+	background-color: white;
+}
+
+.icon-estilo-event{
+	margin-left: 0.55em;
+	font-size: 5em;
+	color: #106C73;
+}
+
+.margen-arriba{
+	padding-top: 1em;
+}
+
 /* Bloque jhonazsh */
 
 .ponentes, .eventos, .organizadores{
@@ -168,7 +194,6 @@ body
 
 
 .footer{
-	height: 50px;
 	background-color: #108a93;
 }
 
@@ -242,6 +267,17 @@ body
 
 .contenido-true{
     background-color: rgba(16, 138, 147, 0.4);
+}
+
+.contact{
+	padding: 0;
+}
+
+.contact>li{
+	list-style: none;
+	padding: 0.3em;
+	color: white;
+	letter-spacing: 1px;
 }
 
 /*CESAR*/
@@ -378,19 +414,24 @@ body
 
 .img-derecha{
 	float: right;
-	width: 75px;
+	width: 3em;
+	padding-top: 1.5em;
+}
+
+.caja-ponente, .caja-eventos{
+	background: rgba(183, 203, 204, 0.62);
+
 }
 
 .caja-ponente{
-	background: #108A93;
-	padding: 1.5em;
+	padding-top: 1.5em;
 }
 
 .caja-ponente-detalle{
 	background: #F5F5F6;
 	padding: 1.5em 3em;
-	border-radius: .8em;
-	margin-bottom: 2em;
+	border-radius: 3px;
+	margin-bottom: 1.5em;
 }
 
 /*@media screen and (max-width: 768px){
