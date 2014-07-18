@@ -11,9 +11,24 @@ body{
     padding-top: 2em;
 }
 
+.margen-derecha{
+    padding-right: 2em !important;
+    left: -120px !important;
+}
+
+.margen-izquierda{
+    padding-left: 2em;
+    right: -120px !important;
+}
+}
+
 img
 {
     vertical-align: middle;
+}
+
+i{
+    font-style: normal !important;
 }
 
 .img-responsive
@@ -103,7 +118,7 @@ img
     background-clip: padding-box;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
-    border-radius: 1px;
+    border-radius: 0px;
     text-align: center;
     -moz-box-shadow: 0 0 0 5px #f5f5f6;
     -webkit-box-shadow: 0 0 0 5px #f5f5f6;
