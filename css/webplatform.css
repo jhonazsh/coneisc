@@ -499,3 +499,68 @@ body
 }
 
 /*ponentes....**********/
+
+
+/******* TRUJILLO **************************************/
+
+.trujillo-tabs{
+	/*background: #108A93;*/
+}
+
+.trujillo-tabs a{
+	color: black;
+}
+
+.trujillo-tabs li>a{
+	border-radius: 0;
+}
+
+.trujillo-tabs a:hover{
+	/*color: #108A93;*/
+}
+
+.img-centrar-trujillo{
+	text-align: center;
+	margin: 0 auto;
+	width: 400px;
+	height: 250px;
+}
+
+.img-centrar-trujillo img{
+	width: 100%;
+	height: 100%;
+}
+
+.img-trujillo{
+	border-radius: 2px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 480px){
+	.img-centrar-trujillo img{
+		width: 50%;
+	}
+
+}
+
+@media screen and (min-width: 480px) and (max-width: 768px){
+	.img-centrar-trujillo img{
+		width: 80%;
+	}
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+	.img-centrar-trujillo img{
+		width: 100%;
+	}
+
+}
+@media screen and (min-width: 1024px){
+	.img-centrar-trujillo img{
+		width: 100%;
+	}
+
+}
+
+
+/******* TRUJILLO **************************************/
