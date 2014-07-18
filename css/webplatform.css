@@ -287,6 +287,29 @@ body
 	color: white;
 	letter-spacing: 1px;
 }
+.contact>li>a{
+	color: #fff;
+	font-size: 17px;
+}
+.contact>li>a:hover{
+	text-decoration: none;
+}
+.redes>li:hover{
+	font-weight: bold;
+}
+.contact>li>a:active{
+	text-decoration: none;
+}
+
+.titulofooter:hover{
+	color: #FFF;
+	background-color: transparent;
+	border: 2px solid #FFF;
+}
+
+.icono-redes{
+	font-size: 25px;
+}
 
 /*CESAR*/
 .titulo{
