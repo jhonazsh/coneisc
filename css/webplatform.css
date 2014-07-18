@@ -168,6 +168,14 @@ body
 	color: #fff;
 }
 
+.font-montserrat{
+	font-family: "Montserrat";
+}
+
+.vertical-center{
+	margin-top: 1.5em;
+}
+
 .panel-body-customize{
 	background-color: white;
 }
@@ -418,6 +426,15 @@ body
 .caja-ponente, .caja-eventos{
 	background: rgba(183, 203, 204, 0.62);
 
+}
+
+.color-fondo{
+	background-color: #6AB6BC;
+}
+
+.page-header-custom{
+	padding-bottom:9px;
+	margin:40px 0 20px;
 }
 
 .caja-ponente{
