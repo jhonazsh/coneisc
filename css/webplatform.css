@@ -168,6 +168,14 @@ body
 	color: #fff;
 }
 
+.font-montserrat{
+	font-family: "Montserrat";
+}
+
+.vertical-center{
+	margin-top: 1.5em;
+}
+
 .panel-body-customize{
 	background-color: white;
 }
@@ -278,6 +286,29 @@ body
 	padding: 0.3em;
 	color: white;
 	letter-spacing: 1px;
+}
+.contact>li>a{
+	color: #fff;
+	font-size: 17px;
+}
+.contact>li>a:hover{
+	text-decoration: none;
+}
+.redes>li:hover{
+	font-weight: bold;
+}
+.contact>li>a:active{
+	text-decoration: none;
+}
+
+.titulofooter:hover{
+	color: #FFF;
+	background-color: transparent;
+	border: 2px solid #FFF;
+}
+
+.icono-redes{
+	font-size: 25px;
 }
 
 /*CESAR*/
@@ -418,6 +449,15 @@ body
 .caja-ponente, .caja-eventos{
 	background: rgba(183, 203, 204, 0.62);
 
+}
+
+.color-fondo{
+	background-color: #6AB6BC;
+}
+
+.page-header-custom{
+	padding-bottom:9px;
+	margin:40px 0 20px;
 }
 
 .caja-ponente{
