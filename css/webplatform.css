@@ -64,6 +64,15 @@ body
 	font-family: "Montserrat";
 }
 
+.btn-mas{
+	width: 210px !important;
+	font-size: 14px !important;
+}
+
+.margen-izq{
+	padding-left: 4em; 
+}
+
 .btn-cro {
 	background: #fff;
 	color: #444;
