@@ -16,14 +16,14 @@ body
 .container-banner {
 	/*background: rgba(0, 162, 244,0.75);*/
 	background:rgba(0,0,0,0.5);
-	height: 500px;
 	padding-top: 150px;
+	padding-bottom: 150px;
 }
 
 .banner {
-	background: url("../img/portada/plazaarmas.jpg") no-repeat scroll center bottom rgba(255,255,255,0.8);
+	background: url("../img/portada/plazaarmas.jpg") no-repeat center bottom rgba(255,255,255,0.8);
 	width: 100%;
-	height: 500px;
+	/*height: 500px;*/
 	overflow: hidden;
 	display: block;
 	background-size: cover;
@@ -127,8 +127,9 @@ body
 .eventos, .organizadores {
 	padding: 3em 0 0 0;
 	background-color: rgba(0, 162, 244,0.05);
-	border-top: 1px solid rgba(0, 162, 244,0.15);
-	border-bottom: 1px solid rgba(0, 162, 244,0.15);
+		border-top: 1px solid rgba(0, 162, 244,0.15);
+		border-bottom: 1px solid rgba(0, 162, 244,0.15);
+	
 }
 
 .organizadores {
@@ -288,6 +289,7 @@ body
 
 .contact{
 	padding: 0;
+	margin-top: 1em;
 }
 
 .contact>li{
@@ -298,16 +300,13 @@ body
 }
 .contact>li>a{
 	color: #fff;
-	font-size: 17px;
+	font-size: 15px;
 }
 .contact>li>a:hover{
 	text-decoration: none;
 }
 .redes>li:hover{
 	font-weight: bold;
-}
-.contact>li>a:active{
-	text-decoration: none;
 }
 
 .titulofooter:hover{
@@ -317,7 +316,7 @@ body
 }
 
 .icono-redes{
-	font-size: 25px;
+	font-size: 20px;
 }
 
 /*CESAR*/

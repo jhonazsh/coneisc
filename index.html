@@ -12,6 +12,7 @@
 
     <link rel="stylesheet" href="css/webplatform.css" />
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="stylus/media-queries-index.css">
 </head>
 <body>
 	<!--CESAR-->
@@ -32,7 +33,7 @@
                     <li><a href="eventos.html"><span class="glyphicon glyphicon-flash color"></span> Eventos</a></li>
                     <li><a href="cronograma.html"><span class="glyphicon glyphicon-calendar color"></span> Cronograma</a></li>
                     <li><a href="trujillo.html"><span class="glyphicon glyphicon-map-marker color"></span> Trujillo</a></li>
-                    <li><a href="#"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>
+                    <!--<li><a href="#"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>-->
                     <li class="divider"></li>
                 </ul>
             </div><!--/.nav-collapse -->
@@ -46,7 +47,7 @@
 
             <div class="row">
               
-              <div class="col-sm-6">
+              <div class="col-md-6 col-sm-10 texto-centro-responsive">
                 <h1 class="titulo-principal">XXII CONEISC 2014</h1>
                 <p class="parrafo-principal color-blanco">XXII Congreso Nacional de Estudiantes de Ingeniería de Sistemas - Trujillo 2014</p>
 
@@ -54,7 +55,7 @@
                 <a href="cronograma.html" class="btn">Cronograma</a>
               </div>
 
-              <div class="col-sm-6">
+              <div class="col-md-6 col-sm-2">
                 <div class="oferta text-center">
                   <h3>¡Solo en Julio!</h3>
                   <p>Estudiantes: 110 soles</p>
@@ -71,6 +72,7 @@
 
     <section class="tematica">
       <div class="container">
+
         <div class="row">
           <div class="col-md-4 temas">
               <h3 class="text-center">Ponencias</h3>
@@ -78,7 +80,7 @@
               <p class="text-center">Mas de 20 ponencias de expertos en las areas de Sistemas, entre nacionales ye internacioneles. Cada una de su propia perspectiva.</p>
               <a href="/inscribete/" class="btn btn-negro">Ver mas</a>
           </div>
-          <div class="col-md-4 temas">
+          <div class="col-md-4 temas temas-responsive">
               <h3 class="centrar">Talleres</h3>
               <img src="img/talleres.png" class="img-responsive">
               <p class="text-center">Contamos con muchos talleres practicos sobre Linux, desarollo y diseño web. Ademas aprenderas codeando de la mano de expertos.</p>
@@ -98,22 +100,23 @@
 
   <section class="eventos text-center">
     <div class="container">
+
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-6">
           <p class="icon-center">
             <span class="icon-code icon-estilo"></span>
           </p>
-          <h4 class="headevent">DevBattle</h4>
+          <h4 class="headevent">Concurso DevBattle</h4>
           <p class="content-event">Demuestra tus conocimientos en programación compitiendo con estudiantes de todo el Perú.</p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-6">
           <p class="icon-center">
             <span class="icon-stack icon-estilo"></span>
           </p>
           <h4 class="headevent">Concurso de proyectos</h4>
           <p class="content-event">Esta es la oportunidad de mostrar tu proyecto a toda la comunidad académica, no pierdas esta oportunidad.</p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-6">
           <p class="icon-center">
             <span class="icon-users icon-estilo"></span>
           </p>
@@ -121,21 +124,21 @@
           <p class="content-event">Demuestra tus conocimientos aplicándolos a un escenario de nuestra realidad. Ayudemos a construir un Perú mejor.</p>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-6">
           <p class="icon-center">
             <span class="icon-accessibility icon-estilo"></span>
           </p>
           <h4 class="headevent">Noche de talentos</h4>
           <p class="content-event">Cantas, bailas o haces algo especial? Esta es la oportunidad que estaba esperando, participa y comparte tus talentos con nosotros.</p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-6">
           <p class="icon-center">
             <span class="icon-happy icon-estilo"></span>
           </p>
           <h4 class="headevent">Fiesta de Apertura</h4>
           <p class="content-event">La fiesta de apertura se realizará el día lunes 18 de Agosto a las 9:00 p.m en "EL ESTRIBO", ubicado en Jr San Martín N°809.</p>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 col-xs-6">
           <p class="icon-center">
             <span class="icon-grin icon-estilo"></span>
           </p>
@@ -178,45 +181,45 @@
       <div type="button" class="btn btn-negro">Organizadores</div>
 
       <div class="row">
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-3">
             <div class="row">
               <div class="col-md-5">
                 <img src="img/organizadores/unt.png" class="img-responsive">
               </div>
-              <div class="col-md-7">
+              <div class="col-md-7 texto-organizador-responsive">
                 Universidad Nacional de Trujillo
               </div>
             </div>
           </div>
 
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-3">
             <div class="row">
               <div class="col-md-5">
                 <img src="img/organizadores/cole.png" class="img-responsive">
               </div>
-              <div class="col-md-7">
+              <div class="col-md-7 texto-organizador-responsive">
                 Colegio de Ingenieros del Perú
               </div>
             </div>
           </div>
 
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-3">
             <div class="row">
               <div class="col-md-5 relleno">
                 <img src="img/organizadores/apeisc.png" class="img-responsive">
               </div>
-              <div class="col-md-7">
+              <div class="col-md-7 texto-organizador-responsive">
                 Asociación Peruana de Ingenieros de Sistemas y Computación
               </div>
             </div>
           </div>
 
-          <div class="col-md-3">
+          <div class="col-md-3 col-xs-3">
             <div class="row">
               <div class="col-md-5">
                 <img src="img/organizadores/devCode.png" class="img-responsive">
               </div>
-              <div class="col-md-7">
+              <div class="col-md-7 texto-organizador-responsive">
                 DevCode.la -  Plataforma de Educación Online
               </div>
             </div>
@@ -231,9 +234,12 @@
     <br><br>
     <div class="container">
       <div class="row">
-        <div class="col-md-9">
-            <a href="" class="btn titulofooter">Contáctanos</a> 
-            <br><br> 
+        <div class="col-md-9 ">
+          <div>
+            <div class="btn titulofooter">Contáctanos</div> 
+          </div>
+            
+             
           <ul class="contact">
             <li><b>E-mail:</b> informes@coneisc.pe</li>
             <li><b>Dirección:</b> Av. Juan Pablo II 562</li>
@@ -242,8 +248,8 @@
           
         </div>
         <div class="col-md-3">
-            <a href="" class="btn titulofooter">Síguenos</a> 
-            <br><br> 
+            <div class="btn titulofooter">Síguenos</div> 
+            
           <ul class="contact redes">
             <li><a href="https://www.facebook.com/xxiiconeisc" target="_blank"><span class="icon-facebook icono-redes"></span> /xxiiconeisc</a></li>
             <li><a href="https://twitter.com/coneiscUNT2014" target="_blank"><span class="icon-twitter icono-redes"></span> /coneiscUNT2014</a></li>
