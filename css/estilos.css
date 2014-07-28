@@ -1,0 +1,371 @@
+/* 
+ * |------ Elementos CSS ------|
+ */
+/* Propiedades */
+.alinear-derecha {
+  text-align: right;
+}
+.alinear-centro {
+  text-align: center;
+}
+.alinear-justify {
+  text-align: justify;
+}
+.relleno-arriba-uno {
+  padding-top: 1em;
+}
+.relleno-abajo-uno {
+  padding-bottom: 1em;
+}
+.relleno-arriba-dos {
+  margin-top: 2em;
+}
+.headevent {
+  font-size: 1.3em;
+}
+/* Botones */
+.btn {
+  width: 200px;
+  font-size: 18px;
+  border-radius: 0;
+  margin: 0.2em auto;
+  font-family: "Montserrat";
+  border: 2px solid #fff;
+}
+.btn-no-fondo {
+  color: #fff;
+  background-color: transparent;
+}
+.btn-cro {
+  background: #fff;
+  color: #444;
+}
+.btn-negro,
+.btn-negro-no {
+  color: #888;
+  border-color: #888;
+  display: block;
+}
+.btn-negro-no:hover {
+  color: #888;
+  cursor: auto;
+}
+.btn-azul-no:hover {
+  color: #fff;
+  cursor: auto;
+}
+.btn-azul,
+.btn-azul-no {
+  background: #00a2f4;
+  color: #fff;
+  border-color: #00a2f4;
+}
+.btn-azul:hover {
+  color: #fff;
+}
+.btn-no-fondo:hover,
+.btn-cro:hover,
+.btn-negro:hover {
+  background: #00a2f4;
+  color: #fff;
+  border-color: #00a2f4;
+}
+.btn-mas {
+  width: 210px !important;
+  font-size: 14px !important;
+}
+/* Others */
+body {
+  margin-top: 50px;
+  font-family: "Open Sans", "Calibri";
+  font-size: 15px;
+}
+.color-blanco {
+  color: #fff;
+  font-size: 1.2em;
+}
+.margen-izq {
+  padding-left: 4em;
+}
+.montserrat {
+  font-family: "Montserrat";
+}
+.pasos-inscripcion {
+  background: #00a2f4;
+  border-radius: 1.5em;
+  color: #fff;
+  padding: 0.3em 0.75em;
+  font-size: 0.8em;
+  width: 1.5em;
+  height: 1.5em;
+}
+.titulo-derecha {
+  text-align: right;
+}
+.icon-estilo {
+  font-size: 3em;
+  color: #106c73;
+}
+.contenido-true {
+  background-color: rgba(16,138,147,0.4);
+}
+.titulofooterhover {
+  color: #fff;
+  background-color: transparent;
+  border: 2px solid #fff;
+}
+.icono-redes {
+  font-size: 20px;
+}
+/* Barra de Navegación */
+.navbar-default-customize {
+  background: #fff;
+}
+.navbar-customize {
+  border-bottom: none;
+  box-shadow: 0px 0px 8px #9e9797;
+}
+/* Banner */
+.banner {
+  background: url("../img/portada/plazaarmas.jpg") no-repeat center bottom rgba(255,255,255,0.8);
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  background-size: cover;
+}
+.banner .container-banner {
+  background: rgba(0,0,0,0.5);
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+.banner .container-banner .titulo-principal {
+  color: #fff;
+  font-size: 3em;
+}
+.banner .container-banner .parrafo-principal {
+  margin-bottom: 1em;
+}
+.banner .container-banner .titulo-principal,
+.banner .container-banner .oferta {
+  font-family: "Montserrat";
+}
+.banner .container-banner .oferta {
+  background: rgba(0,162,244,0.75);
+  height: 250px;
+  width: 250px;
+  border-radius: 250px;
+  margin: -50px auto 0 auto;
+  position: relative;
+  padding: 3.5em 2em;
+  color: #fff;
+}
+.banner .container-banner .oferta h3 {
+  border-bottom: 2px solid #fff;
+}
+.banner-inscripcion {
+  height: 200px;
+}
+.banner-inscripcion .container-banner {
+  height: 200px !important;
+  padding: 25px !important;
+}
+/* Secciones */
+.tematica,
+.eventos,
+.sponsor,
+.organizadores {
+  padding: 2em 0;
+}
+.tematica h3 {
+  font-family: "Montserrat";
+}
+.tematica .temas p {
+  color: #888;
+}
+.sponsor .btn,
+.organizadores .btn {
+  margin: 0em auto 2em auto;
+}
+.eventos .btn,
+.tematica .btn {
+  margin: 1em auto 0em auto;
+}
+.eventos,
+.organizadores {
+  background-color: rgba(0,162,244,0.05);
+  border-top: 1px solid rgba(0,162,244,0.15);
+  border-bottom: 1px solid rgba(0,162,244,0.15);
+}
+.sponsor img {
+  width: 120px;
+  margin: 0 0.5em;
+  display: inline-block;
+  text-align: center;
+}
+.contenedor-resto {
+  padding-top: 1.5em;
+  background: #6ab6bc;
+}
+.caja-ponente-detalle {
+  background: #fff;
+  padding: 1em 3em;
+  border-radius: 2px;
+  margin: 0 auto 1em auto;
+  width: 85%;
+}
+.caja-ponente-detalle .img-derecha {
+  float: right;
+  width: 3em;
+  padding-top: 1.5em;
+}
+.caja-eventos {
+  width: 70%;
+  margin: 0 auto;
+}
+.caja-eventos .page-header-custom {
+  padding-bottom: 1em;
+  padding-left: 0.8em;
+}
+.caja-eventos .page-header-custom h2 {
+  margin: 0;
+  color: #fff;
+  font-family: "Montserrat";
+}
+.caja-eventos .panel-customize {
+  border: 1px solid #fff;
+  padding: 1em;
+  border-radius: 2px;
+}
+.caja-eventos .panel-customize .panel-body-customize {
+  background-color: #fff;
+}
+.caja-eventos .panel-customize .panel-body-customize .icon-estilo-event {
+  font-size: 5em;
+  color: #106c73;
+  margin-left: 12px;
+}
+.caja-eventos .panel-customize .panel-body-customize h3 {
+  margin-top: 0;
+}
+.trujillo-tabs a {
+  color: #000;
+}
+.trujillo-tabs li a {
+  border-radius: 0;
+}
+.img-centrar-trujillo {
+  text-align: center;
+  margin: 0 auto;
+  width: 400px;
+  height: 250px;
+}
+.img-centrar-trujillo img {
+  width: 100%;
+  height: 100%;
+}
+.img-trujillo {
+  border-radius: 2px;
+}
+.text-trujillo {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+/* Footer */
+.footer {
+  background-color: #108a93;
+}
+.footer .contact {
+  padding: 0;
+  margin-top: 1em;
+}
+.footer .contact li {
+  list-style: none;
+  padding: 0.3em;
+  color: #fff;
+  letter-spacing: 1px;
+}
+.footer .contact li a {
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+}
+.footer .contact li a:hover {
+  color: #ff0;
+}
+.footer .contact .icono-redes {
+  font-size: 20px;
+}
+/* 
+ * |------ Media Queries ------|
+ */
+/* Media Queries para index.php */
+@media screen and (min-width: 0px) and (max-width: 480px) {
+  .oferta,
+  .texto-organizador-responsive,
+  .content-event {
+    display: none;
+  }
+  .container-banner {
+    padding-top: 5em;
+    padding-bottom: 2.5em;
+  }
+  .texto-centro-responsive {
+    text-align: center;
+  }
+  .titulo-principal {
+    font-size: 2.5em;
+  }
+  .sponsor img {
+    width: 27.5%;
+  }
+  .headevent {
+    font-size: 15px;
+  }
+  .temas-responsive {
+    background-color: rgba(0,162,244,0.05);
+    border-top: 1px solid rgba(0,162,244,0.15);
+    border-bottom: 1px solid rgba(0,162,244,0.15);
+    padding-bottom: 3em;
+    padding-top: 1em;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .oferta {
+    display: none;
+  }
+  .container-banner {
+    padding-top: 5em;
+    padding-bottom: 2.5em;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .oferta {
+    margin-top: 1em;
+  }
+  .container {
+    width: 100%;
+  }
+  .container-banner {
+    padding-top: 5em;
+    padding-bottom: 2.5em;
+  }
+}
+/* Media Queries para trujillo.php */
+@media screen and (min-width: 0px) and (max-width: 480px) {
+  .img-centrar-trujillo {
+    width: 280px;
+    height: 170px;
+  }
+}
+@media screen and (min-width: 480px) and (max-width: 768px) {
+  .img-centrar-trujillo {
+    width: 300px;
+    height: 200px;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .img-centrar-trujillo {
+    width: 300px;
+    height: 200px;
+  }
+}
