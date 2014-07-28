@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <link rel="icon" type="image/png" href="img/logo-favicon.png">
     <title><?php startblock('title'); ?> <?php endblock(); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
@@ -11,8 +12,8 @@
     <link rel="stylesheet" href="css/bootstrap-theme.min.css"/>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-
-    <link rel="stylesheet" href="css/webplatform.css" />
+    
+    <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/style.css">
 
     <?php startblock('style'); ?> 
@@ -23,7 +24,7 @@
 <body>
 
 	<!--CESAR-->
-    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="navbar navbar-default navbar-fixed-top navbar-default-customize navbar-customize" role="navigation">
         <div class="container">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -32,7 +33,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                 <a class="navbar-brand" href="index.php"><span class="titulo">XXII CONEISC 2014</span></a>
+                 <a class="navbar-brand" href="index.php"><span class="titulo"> <img src="img/logo.png" width="15%" height="90%"> XXII CONEISC 2014</span></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -40,7 +41,7 @@
                     <li><a href="eventos.php"><span class="glyphicon glyphicon-flash color"></span> Eventos</a></li>
                     <li><a href="cronograma.php"><span class="glyphicon glyphicon-calendar color"></span> Cronograma</a></li>
                     <li><a href="trujillo.php"><span class="glyphicon glyphicon-map-marker color"></span> Trujillo</a></li>
-                    <!--<li><a href="#"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>-->
+                    <li><a href="contactanos.php"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>
                     <li class="divider"></li>
                 </ul>
             </div><!--/.nav-collapse -->
@@ -57,7 +58,7 @@
       <div class="row">
         <div class="col-md-9 ">
           <div>
-            <div class="btn titulofooter">Contáctanos</div> 
+            <div class="btn btn-azul-no">Contáctanos</div> 
           </div>
             
              
@@ -69,9 +70,9 @@
           
         </div>
         <div class="col-md-3">
-            <div class="btn titulofooter">Síguenos</div> 
+            <div class="btn btn-azul-no">Síguenos</div> 
             
-          <ul class="contact redes">
+          <ul class="contact">
             <li><a href="https://www.facebook.com/xxiiconeisc" target="_blank"><span class="icon-facebook icono-redes"></span> /xxiiconeisc</a></li>
             <li><a href="https://twitter.com/coneiscUNT2014" target="_blank"><span class="icon-twitter icono-redes"></span> /coneiscUNT2014</a></li>
             <li><a href="https://www.youtube.com/coneisc2014" target="_blank"><span class="icon-youtube icono-redes"></span> /coneisc2014</a></li>

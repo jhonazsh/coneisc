@@ -30,12 +30,12 @@
 
         <div class="container">
            
-            <div class="row margen-arriba">
+            <div class="row relleno-arriba-uno">
                 <div class="col-md-offset-1 col-md-10 margen-arriba margen-izq">
                     <a class="btn btn-cro btn-mas titulofooter" id="todo">Todo</a>
-                    <a class="btn btn-mas titulofooter" id="magistral">Ponencias Magistrales</a>
-                    <a class="btn btn-mas titulofooter" id="especializada">Ponencias Especializadas</a>
-                    <a class="btn btn-mas titulofooter" id="taller">Talleres</a>
+                    <a class="btn btn-no-fondo btn-mas titulofooter" id="magistral">Ponencias Magistrales</a>
+                    <a class="btn btn-no-fondo btn-mas titulofooter" id="especializada">Ponencias Especializadas</a>
+                    <a class="btn btn-no-fondo btn-mas titulofooter" id="taller">Talleres</a>
                 </div>
 
                 <div class="col-md-offset-1 col-md-10 margen-arriba-dos "> 
