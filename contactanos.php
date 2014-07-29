@@ -6,4 +6,6 @@
 
 <?php startblock('contenido'); ?>
 
+	
+
 <?php endblock(); ?>
