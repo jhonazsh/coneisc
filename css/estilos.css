@@ -125,6 +125,9 @@ body {
   border-bottom: none;
   box-shadow: 0px 0px 8px #9e9797;
 }
+.navbar-customize .color {
+  color: #108a93;
+}
 /* Banner */
 .banner {
   background: url("../img/portada/plazaarmas.jpg") no-repeat center bottom rgba(255,255,255,0.8);
@@ -202,7 +205,7 @@ body {
   border-bottom: 1px solid rgba(0,162,244,0.15);
 }
 .sponsor img {
-  width: 120px;
+  width: 170px;
   margin: 0 0.5em;
   display: inline-block;
   text-align: center;

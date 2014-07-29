@@ -35,7 +35,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                 <a class="navbar-brand" href="index.php"><span class="titulo"> <img src="img/logo.png" class="logo" width="30%" height="100%"> <span class="ti">XXII CONEISC 2014</span></span></a>
+                 <a class="navbar-brand" href="index.php"><span class="titulo"> <img src="img/logo.png" class="logo" width="30%" height="105%"> <span class="ti">XXII CONEISC 2014</span></span></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -43,7 +43,7 @@
                     <li><a href="eventos.php"><span class="glyphicon glyphicon-flash color"></span> Eventos</a></li>
                     <li><a href="cronograma.php"><span class="glyphicon glyphicon-calendar color"></span> Cronograma</a></li>
                     <li><a href="trujillo.php"><span class="glyphicon glyphicon-map-marker color"></span> Trujillo</a></li>
-                    <!--<li><a href="contactanos.php"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>-->
+                    <li><a href="contactanos.php"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>
                     <li><a href="http://www.devcode.la/coneisc" target="_blank"><img src="https://s3.amazonaws.com/devcodela/img/logo-devcodela.png" height="25px"></a></li>
                     <li class="divider"></li>
                 </ul>
