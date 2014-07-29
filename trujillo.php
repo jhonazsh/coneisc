@@ -14,7 +14,7 @@
               
               <div class="col-sm-6">
                 <h1 class="titulo-principal">Trujillo CONEISC</h1>
-                <!--<p class="parrafo-principal color-blanco">¡No esperes el ultimo momento!</p>-->
+                <p class="parrafo-principal color-blanco">¡Conoce nuestro atractivos turisticos!</p>
               </div>
 
             </div>
