@@ -5,7 +5,7 @@
 <?php endblock(); ?>
 
 <?php startblock('style'); ?>
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/vendor/timeline.css">
 <?php endblock(); ?>
 
 <?php startblock('contenido'); ?>

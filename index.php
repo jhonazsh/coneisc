@@ -17,8 +17,10 @@
             <h1 class="titulo-principal">XXII CONEISC 2014</h1>
             <p class="parrafo-principal color-blanco">XXII Congreso Nacional de Estudiantes de Ingeniería de Sistemas - Trujillo 2014</p>
 
+
             <a href="inscripcion.php" class="btn btn-cro">Inscríbete</a>
             <a href="cronograma.php" class="btn btn-no-fondo">Cronograma</a>
+
           </div>
 
           <div class="col-md-6 col-sm-2">
@@ -27,6 +29,7 @@
               <p>Estudiantes: 110 soles</p>
               <p>Profesionales: 130 soles</p>
             </div>
+            <p class="parrafo-fecha color-blanco alinear-centro">Del 18 al 23 de Agosto</p>
           </div>
 
         </div>
@@ -75,21 +78,21 @@
                 <span class="icon-code icon-estilo"></span>
               </p>
               <h4 class="headevent">Concurso DevBattle</h4>
-              <p class="alinear-centro">Demuestra tus conocimientos en programación compitiendo con estudiantes de todo el Perú.</p>
+              <p class="alinear-centro content-event">Demuestra tus conocimientos en programación compitiendo con estudiantes de todo el Perú.</p>
             </div>
             <div class="col-md-4 col-xs-6">
               <p class="alinear-centro">
                 <span class="icon-stack icon-estilo"></span>
               </p>
               <h4 class="headevent">Concurso de proyectos</h4>
-              <p class="alinear-centro">Esta es la oportunidad de mostrar tu proyecto a toda la comunidad académica, no pierdas esta oportunidad.</p>
+              <p class="alinear-centro content-event">Esta es la oportunidad de mostrar tu proyecto a toda la comunidad académica, no pierdas esta oportunidad.</p>
             </div>
             <div class="col-md-4 col-xs-6">
               <p class="alinear-centro">
                 <span class="icon-users icon-estilo"></span>
               </p>
               <h4 class="headevent">Foro sistémico</h4>
-              <p class="alinear-centro">Demuestra tus conocimientos aplicándolos a un escenario de nuestra realidad. Ayudemos a construir un Perú mejor.</p>
+              <p class="alinear-centro content-event">Demuestra tus conocimientos aplicándolos a un escenario de nuestra realidad. Ayudemos a construir un Perú mejor.</p>
             </div>
 
             <div class="col-md-4 col-xs-6">
@@ -97,21 +100,21 @@
                 <span class="icon-accessibility icon-estilo"></span>
               </p>
               <h4 class="headevent">Noche de talentos</h4>
-              <p class="alinear-centro">Cantas, bailas o haces algo especial? Esta es la oportunidad que estaba esperando, participa y comparte tus talentos con nosotros.</p>
+              <p class="alinear-centro content-event">Cantas, bailas o haces algo especial? Esta es la oportunidad que estaba esperando, participa y comparte tus talentos con nosotros.</p>
             </div>
             <div class="col-md-4 col-xs-6">
               <p class="alinear-centro">
                 <span class="icon-happy icon-estilo"></span>
               </p>
               <h4 class="headevent">Fiesta de Apertura</h4>
-              <p class="alinear-centro">La fiesta de apertura se realizará el día lunes 18 de Agosto a las 9:00 p.m en "EL ESTRIBO", ubicado en Jr San Martín N°809.</p>
+              <p class="alinear-centro content-event">La fiesta de apertura se realizará el día lunes 18 de Agosto a las 9:00 p.m en "EL ESTRIBO", ubicado en Jr San Martín N°809.</p>
             </div>
             <div class="col-md-4 col-xs-6">
               <p class="alinear-centro">
                 <span class="icon-grin icon-estilo"></span>
               </p>
               <h4 class="headevent">Fiesta de Clausura</h4>
-              <p class="alinear-centro">Se realizará el día viernes 22 a las 9:00 p.m en EL MOCHICA de MOCHE. Ubicado en Av. La Marina S/N - Moche - La Libertad.</p>
+              <p class="alinear-centro content-event">Se realizará el día viernes 22 a las 9:00 p.m en EL MOCHICA de MOCHE. Ubicado en Av. La Marina S/N - Moche - La Libertad.</p>
             </div>
           </div>
         </div>

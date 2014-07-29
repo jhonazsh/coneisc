@@ -8,13 +8,15 @@
     <title><?php startblock('title'); ?> <?php endblock(); ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-    <link rel="stylesheet" href="css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="css/vendor/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/vendor/bootstrap-theme.min.css"/>
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
-    
+    <link rel="stylesheet" href="css/vendor/style.css">
+
     <link rel="stylesheet" href="css/estilos.css">
-    <link rel="stylesheet" href="css/style.css">
+
+    
 
     <?php startblock('style'); ?> 
 
@@ -33,7 +35,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                 <a class="navbar-brand" href="index.php"><span class="titulo"> <img src="img/logo.png" width="15%" height="90%"> XXII CONEISC 2014</span></a>
+                 <a class="navbar-brand" href="index.php"><span class="titulo"> <img src="img/logo.png" class="logo" width="30%" height="100%"> <span class="ti">XXII CONEISC 2014</span></span></a>
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav navbar-right">
@@ -41,7 +43,8 @@
                     <li><a href="eventos.php"><span class="glyphicon glyphicon-flash color"></span> Eventos</a></li>
                     <li><a href="cronograma.php"><span class="glyphicon glyphicon-calendar color"></span> Cronograma</a></li>
                     <li><a href="trujillo.php"><span class="glyphicon glyphicon-map-marker color"></span> Trujillo</a></li>
-                    <li><a href="contactanos.php"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>
+                    <!--<li><a href="contactanos.php"><span class="glyphicon glyphicon-envelope color"></span> Contáctanos</a></li>-->
+                    <li><a href="http://www.devcode.la/coneisc" target="_blank"><img src="https://s3.amazonaws.com/devcodela/img/logo-devcodela.png" height="25px"></a></li>
                     <li class="divider"></li>
                 </ul>
             </div><!--/.nav-collapse -->

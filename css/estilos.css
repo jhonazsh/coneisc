@@ -134,9 +134,9 @@ body {
   background-size: cover;
 }
 .banner .container-banner {
-  background: rgba(0,0,0,0.5);
+  background: rgba(0,0,0,0.69);
   padding-top: 150px;
-  padding-bottom: 150px;
+  padding-bottom: 120px;
 }
 .banner .container-banner .titulo-principal {
   color: #fff;
@@ -144,6 +144,11 @@ body {
 }
 .banner .container-banner .parrafo-principal {
   margin-bottom: 1em;
+}
+.banner .container-banner .parrafo-fecha {
+  margin-top: 1em;
+  font-family: "Montserrat";
+  font-size: 1.5em;
 }
 .banner .container-banner .titulo-principal,
 .banner .container-banner .oferta {
@@ -305,28 +310,41 @@ body {
   .content-event {
     display: none;
   }
-  .container-banner {
+  .banner .container-banner {
     padding-top: 5em;
     padding-bottom: 2.5em;
   }
+  .banner .container-banner .titulo-principal {
+    font-size: 2.5em;
+  }
+  .banner .container-banner .parrafo-principal {
+    font-size: 1.1em;
+  }
+  .banner .container-banner .parrafo-fecha {
+    font-size: 1.2em;
+  }
+  .logo {
+    display: none;
+  }
+  .tematica {
+    padding: 0;
+  }
+  .tematica .temas-responsive {
+    background-color: rgba(0,162,244,0.05);
+    border-top: 1px solid rgba(0,162,244,0.15);
+    border-bottom: 1px solid rgba(0,162,244,0.15);
+  }
+  .tematica .temas {
+    padding-bottom: 1.5em;
+  }
   .texto-centro-responsive {
     text-align: center;
-  }
-  .titulo-principal {
-    font-size: 2.5em;
   }
   .sponsor img {
     width: 27.5%;
   }
   .headevent {
     font-size: 15px;
-  }
-  .temas-responsive {
-    background-color: rgba(0,162,244,0.05);
-    border-top: 1px solid rgba(0,162,244,0.15);
-    border-bottom: 1px solid rgba(0,162,244,0.15);
-    padding-bottom: 3em;
-    padding-top: 1em;
   }
 }
 @media screen and (min-width: 480px) and (max-width: 768px) {
@@ -337,6 +355,9 @@ body {
     padding-top: 5em;
     padding-bottom: 2.5em;
   }
+  .titulo .ti {
+    display: none;
+  }
 }
 @media screen and (min-width: 768px) and (max-width: 1024px) {
   .oferta {
@@ -344,6 +365,14 @@ body {
   }
   .container {
     width: 100%;
+  }
+  .titulo .ti {
+    display: none;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .titulo .ti {
+    display: none;
   }
   .container-banner {
     padding-top: 5em;
