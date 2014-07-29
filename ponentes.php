@@ -72,7 +72,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://ec.linkedin.com/in/nopiedra" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>
@@ -124,7 +124,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://www.linkedin.com/in/stephaniefalla/es" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>
@@ -202,7 +202,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://co.linkedin.com/pub/leonidas-esteban-gonzalez/32/495/222" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>
@@ -228,7 +228,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://pe.linkedin.com/pub/augusto-bernuy-alva-ph-d/9/591/56b/es" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>
@@ -254,7 +254,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="https://pe.linkedin.com/in/alfredkobayashi" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	
@@ -280,7 +280,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://pe.linkedin.com/in/emaravi" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	
@@ -332,7 +332,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://pe.linkedin.com/pub/omar-palomino/4b/659/95a" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	
@@ -436,7 +436,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="https://twitter.com/juaneladio" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	
@@ -488,7 +488,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://pe.linkedin.com/pub/f%C3%A9lix-armando-ferm%C3%ADn-p%C3%A9rez/1a/425/43" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	
@@ -514,7 +514,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="http://pe.linkedin.com/in/neangeles" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	
@@ -540,7 +540,7 @@
 					
 					<br>
 					<div class="alinear-derecha">
-						<a type="button" href="https://www.linkedin.com/in/arturocanez" class="btn btn-azul">Ver Curriculum</a>
+						<a type="button" href="https://www.linkedin.com/in/arturocanez" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
 				</div>	
 			</div>	

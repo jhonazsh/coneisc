@@ -49,19 +49,19 @@
                   <h3 class="alinear-centro">Ponencias</h3>
                   <img src="img/ponencias.png" class="img-responsive">
                   <p class="alinear-centro">Mas de 20 ponencias de expertos en las areas de Sistemas, entre nacionales ye internacioneles. Cada una de su propia perspectiva.</p>
-                  <a href="/inscribete/" class="btn btn-negro">Ver mas</a>
+                  <a href="ponentes.php" class="btn btn-negro">Ver más</a>
               </div>
               <div class="col-md-4 temas temas-responsive">
                   <h3 class="alinear-centro">Talleres</h3>
                   <img src="img/talleres.png" class="img-responsive">
                   <p class="alinear-centro">Contamos con muchos talleres practicos sobre Linux, desarollo y diseño web. Ademas aprenderas codeando de la mano de expertos.</p>
-                  <a href="/inscribete/" class="btn btn-negro">Ver mas</a>
+                  <a href="cronograma.php" class="btn btn-negro">Ver más</a>
               </div>
               <div class="col-md-4 temas">
                   <h3 class="alinear-centro">Emprendimiento</h3>
                   <img src="img/emprendimiento.png" class="img-responsive">
                   <p class="alinear-centro">Vas a escuchar de primera mano los emprendimientos mas resaltantes de Peru y sus historias.</p>
-                  <a href="/inscribete/" class="btn btn-negro">Ver mas</a>
+                  <a href="#" class="btn btn-negro">Ver más</a>
               </div>
             </div>
           </div>      
@@ -119,7 +119,7 @@
           </div>
         </div>
         <div class="centrar">
-          <a type="button" class="btn btn-azul">Ver todos</a>
+          <a type="button" href="eventos.php" class="btn btn-azul">Ver todos</a>
         </div>
       </section>
 
