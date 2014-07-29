@@ -15,7 +15,7 @@
                     
           <div class="col-md-6 col-sm-10 texto-centro-responsive">
             <h1 class="titulo-principal">XXII CONEISC 2014</h1>
-            <p class="parrafo-principal color-blanco">XXII Congreso Nacional de Estudiantes de Ingeniería de Sistemas - Trujillo 2014</p>
+            <p class="parrafo-principal color-blanco">XXII Congreso Nacional de Estudiantes de Ingeniería de Sistemas y Computación - Trujillo 2014</p>
 
 
             <a href="inscripcion.php" class="btn btn-cro">Inscríbete</a>
@@ -124,7 +124,7 @@
       </section>
 
       <section class="sponsor">
-        <div class="container">
+        <div class="container" align="center">
             
           <div class="btn btn-negro-no">Auspiciadores</div>
 
@@ -140,6 +140,7 @@
           <img src="img/auspiciadores/Logo_fedoralogo.png" class="img-responsive">
           <img src="img/auspiciadores/mejorandola_logo.png" class="img-responsive">
           <img src="img/auspiciadores/plazagrau.png" class="img-responsive">
+          <img src="img/auspiciadores/Empresario.png" class="img-responsive">
         </div>
       </section>
 
