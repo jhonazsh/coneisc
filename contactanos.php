@@ -34,13 +34,13 @@
 		
 						<div class="form-group">
 							<label>Nombre: </label>
-							<input type="text" name="txtNombre" class="form-control" id="_txtNombre" placeholder="* Tu nombre">
+							<input type="text" name="txtNombre" class="form-control" placeholder="* Tu nombre"><br>
 							<label>Email: </label>
-							<input type="email" name="txtEmail" class="form-control" id="_txtEmail" placeholder="* Tu email">
+							<input type="email" name="txtEmail" class="form-control" placeholder="* Tu email"><br>
 							<label>Asunto: </label>
-							<input type="text" name="txtAsunto" class="form-control" id="_txtAsunto" placeholder="* Tu asunto">
+							<input type="text" name="txtAsunto" class="form-control" placeholder="* Tu asunto"><br>
 							<label>Mensaje: </label>
-							<textarea name="txtMensaje" class="form-control" rows="8" id="_txtMensaje">
+							<textarea name="txtMensaje" class="form-control" rows="8">
 							</textarea>
 						</div>					
 						<?php 
@@ -61,4 +61,44 @@
 	</section>
 	<br>
 
+<?php endblock(); ?>
+
+<?php startblock('scripts'); ?>
+	<script src="js/jquery.validate.min.js"></script>
+	<script type="text/javascript">
+		$(function(){
+        $('#formContacto').validate({
+            rules :{
+                txtNombre : {
+                    required : true, //para validar campo vacio
+                },
+                txtEmail : {
+                    required : true,
+                    email: true
+                },
+                txtAsunto: {
+                    required : true
+                },
+                txtMensaje : {
+                    required :true
+                }
+            },
+            messages : {
+                txtNombre : {
+                    required : "<p style='color: red;'>* Debe ingresar un nombre</p>"
+                },
+                txtEmail : {
+                    required : "<p style='color: red;'>* Debe ingresar un email</p>",
+                    email: "<p style='color: red;'>* Debe ingresar un email correcto</p>"
+                },
+                txtAsunto:{
+                	required: "<p style='color: red;'>* Debe ingresar un asunto</p>"
+                },
+                txtMensaje:{
+                	required: "<p style='color: red;'>* Debe ingresar un mensaje</p>"
+                }
+            }
+        });    
+    });
+	</script>
 <?php endblock(); ?>
