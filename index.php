@@ -136,10 +136,10 @@
           <img src="img/auspiciadores/cjavalogo.png" class="img-responsive">
           <img src="img/auspiciadores/mpclogo.png" class="img-responsive">
           <img src="img/auspiciadores/integrity.png" class="img-responsive">
-          <img src="img/auspiciadores/plazagrau.png" class="img-responsive">
           <img src="img/auspiciadores/devacademy.png" class="img-responsive">
           <img src="img/auspiciadores/Logo_fedoralogo.png" class="img-responsive">
           <img src="img/auspiciadores/mejorandola_logo.png" class="img-responsive">
+          <img src="img/auspiciadores/plazagrau.png" class="img-responsive">
         </div>
       </section>
 
