@@ -1,17 +1,16 @@
-<?php include('base.php'); ?>
+<?php include ('base.php');?>
 
-<?php startblock('titulo'); ?> 
-	XXII CONEISC 2014 | Ponentes 
-<?php endblock(); ?>
+<?php startblock('titulo');?>XXII CONEISC 2014 | Ponentes
+<?php endblock();?>
 
-<?php startblock('contenido'); ?>
-	<div class="banner banner-inscripcion">
+<?php startblock('contenido');?>
+<div class="banner banner-inscripcion">
       <div class="container-banner">
         <!-- Indicators -->
           <div class="container">
 
             <div class="row">
-              
+
               <div class="col-sm-6">
                 <h1 class="titulo-principal">Ponentes CONEISC</h1>
                 <p class="parrafo-principal color-blanco">¡Conoce a nuestros ponentes CONEISC!</p>
@@ -43,17 +42,17 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/uruguay.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_Monica_Wodzislawski.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
-		
+
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/michaelarias.jpg" alt="" class="img-circle img-responsive">
@@ -70,16 +69,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/costarica.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_Michael_Arias.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/teffy.jpg" alt="" class="img-circle img-responsive">
@@ -96,16 +95,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/guatemala.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://www.linkedin.com/in/stephaniefalla/es" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/luccio.jpg" alt="" class="img-circle img-responsive">
@@ -122,16 +121,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/colombia.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_Luccio_Molina.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/avid.jpg" alt="" class="img-circle img-responsive">
@@ -148,16 +147,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_Avid_Roman_Gonzalez.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/leonidas.jpg" alt="" class="img-circle img-responsive">
@@ -174,16 +173,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://co.linkedin.com/pub/leonidas-esteban-gonzalez/32/495/222" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/augustobernuy.jpg" alt="" class="img-circle img-responsive">
@@ -200,16 +199,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://pe.linkedin.com/pub/augusto-bernuy-alva-ph-d/9/591/56b/es" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
+				</div>
 			</div>
-		
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/Alfred_Kobayashi.jpg" alt="" class="img-circle img-responsive">
@@ -226,16 +225,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="https://pe.linkedin.com/in/alfredkobayashi" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
-		
-		
+				</div>
+			</div>
+
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/edwin_maravi.jpg" alt="" class="img-circle img-responsive">
@@ -252,16 +251,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://pe.linkedin.com/in/emaravi" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/jorge_oblitas.jpg" alt="" class="img-circle img-responsive">
@@ -271,23 +270,23 @@
 						<div class="col-xs-12 col-sm-10 col-md-10">
 							<h2>Ms. Jorge Oblitas</h2>
 							<p class="alinear-justify">
-								
+
 							</p>
 						</div>
 						<div class="hidden-xs col-sm-2 col-md-2">
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/omar_palomino.jpg" alt="" class="img-circle img-responsive">
@@ -304,16 +303,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://pe.linkedin.com/pub/omar-palomino/4b/659/95a" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/jorge_salas.JPG" alt="" class="img-circle img-responsive">
@@ -330,16 +329,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_Jorge_Salas.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/johnt.jpg" alt="" class="img-circle img-responsive">
@@ -356,16 +355,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_John_Titto.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/juanespinoza.jpg" alt="" class="img-circle img-responsive">
@@ -382,16 +381,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/juansanchez.jpg" alt="" class="img-circle img-responsive">
@@ -408,16 +407,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="https://twitter.com/juaneladio" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/Edwin_Valencia.jpg" alt="" class="img-circle img-responsive">
@@ -427,23 +426,23 @@
 						<div class="col-xs-12 col-sm-10 col-md-10">
 							<h2>Mg. Edwin Valencia</h2>
 							<p class="alinear-justify">
-								
+
 							</p>
 						</div>
 						<div class="hidden-xs col-sm-2 col-md-2">
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/felix.jpg" alt="" class="img-circle img-responsive">
@@ -453,23 +452,23 @@
 						<div class="col-xs-12 col-sm-10 col-md-10">
 							<h2>Ing. Félix Fermín</h2>
 							<p class="alinear-justify">
-								
+
 							</p>
 						</div>
 						<div class="hidden-xs col-sm-2 col-md-2">
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://pe.linkedin.com/pub/f%C3%A9lix-armando-ferm%C3%ADn-p%C3%A9rez/1a/425/43" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/nelsonangeles.jpg" alt="" class="img-circle img-responsive">
@@ -486,16 +485,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="http://pe.linkedin.com/in/neangeles" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
-		
-		
+				</div>
+			</div>
+
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/arturo_canez.jpg" alt="" class="img-circle img-responsive">
@@ -512,16 +511,16 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="https://www.linkedin.com/in/arturocanez" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
-		
+				</div>
+			</div>
 
-		
+
+
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
 					<img src="img/ponentes/issac_castillo.jpg" alt="" class="img-circle img-responsive">
@@ -530,9 +529,9 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-10 col-md-10">
 							<h2>M. Sc. Isaac D. Castillo Ch.</h2>
-							<p class="alinear-justify">								
-								Director de Calidad y Tecnología de la Universidad Científica del Perú, Candidato a Doctor en Sistemas de 
-								Ingeniería en la Universidad de Chile, Master en Gestión de Proyectos de Innovación de la Empresa en la 
+							<p class="alinear-justify">
+								Director de Calidad y Tecnología de la Universidad Científica del Perú, Candidato a Doctor en Sistemas de
+								Ingeniería en la Universidad de Chile, Master en Gestión de Proyectos de Innovación de la Empresa en la
 								Universidad La Salle - Barcelona,  Maestría en Dirección de Tecnología de Información en la Universidad Esan,
  								Ingeniero de Sistemas de la UNFV.
 							</p>
@@ -541,16 +540,33 @@
 							<img class="img-derecha img-responsive" src="img/ponentes/peru.jpg" alt="">
 						</div>
 					</div>
-					
+
 					<br>
 					<div class="alinear-derecha">
 						<a type="button" href="descargas/CV_Issac_Castillo.pdf" target="_blank" class="btn btn-azul">Ver Curriculum</a>
 					</div>
-				</div>	
-			</div>	
+				</div>
+			</div>
 		</div>
 		<br>
 
 	</section>
 
-<?php endblock(); ?>
+<?php endblock();?>
+
+<?php startblock('scripts');?>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53564315-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<?php endblock();?>
