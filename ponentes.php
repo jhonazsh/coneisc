@@ -53,31 +53,6 @@
 		
 
 		
-			<div class="row caja-ponente-detalle">
-				<div class="col-xs-12 col-sm-3 col-md-3">
-					<img src="img/ponentes/nelsonpiedra.jpg" alt="" class="img-circle img-responsive">
-				</div>
-				<div class="col-xs-12 col-sm-9 col-md-9">
-					<div class="row">
-						<div class="col-xs-12 col-sm-10 col-md-10">
-							<h2>Dr. Nelson Piedra</h2>
-							<p class="alinear-justify">
-								Director del Instituto de Investigación de Ciencias de la Computación en la UTPL Miembro de la UPM-GICAC. Actualmente lidera la Oficina OpenCourseWare y otras iniciativas de REA en la UTPL.
-							</p>
-						</div>
-						<div class="hidden-xs col-sm-2 col-md-2">
-							<img class="img-derecha img-responsive" src="img/ponentes/ecuador.jpg" alt="">
-						</div>
-					</div>
-					
-					<br>
-					<div class="alinear-derecha">
-						<a type="button" href="http://ec.linkedin.com/in/nopiedra" target="_blank" class="btn btn-azul">Ver Curriculum</a>
-					</div>
-				</div>	
-			</div>
-		
-
 		
 			<div class="row caja-ponente-detalle">
 				<div class="col-xs-12 col-sm-3 col-md-3">
@@ -554,9 +529,12 @@
 				<div class="col-xs-12 col-sm-9 col-md-9">
 					<div class="row">
 						<div class="col-xs-12 col-sm-10 col-md-10">
-							<h2>Ms. Isaac Castillo</h2>
-							<p class="alinear-justify">
-								
+							<h2>M. Sc. Isaac D. Castillo Ch.</h2>
+							<p class="alinear-justify">								
+								Director de Calidad y Tecnología de la Universidad Científica del Perú, Candidato a Doctor en Sistemas de 
+								Ingeniería en la Universidad de Chile, Master en Gestión de Proyectos de Innovación de la Empresa en la 
+								Universidad La Salle - Barcelona,  Maestría en Dirección de Tecnología de Información en la Universidad Esan,
+ 								Ingeniero de Sistemas de la UNFV.
 							</p>
 						</div>
 						<div class="hidden-xs col-sm-2 col-md-2">

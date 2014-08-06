@@ -25,9 +25,9 @@
 
           <div class="col-md-6 col-sm-2">
             <div class="oferta text-center">
-              <h3>¡Solo en Julio!</h3>
-              <p>Estudiantes: 110 soles</p>
-              <p>Profesionales: 130 soles</p>
+              <h3>¡En Agosto!</h3>
+              <p>Estudiantes: 130 soles</p>
+              <p>Profesionales: 150 soles</p>
             </div>
             <p class="parrafo-fecha color-blanco alinear-centro">Del 18 al 23 de Agosto</p>
           </div>
@@ -136,11 +136,15 @@
           <img src="img/auspiciadores/cjavalogo.png" class="img-responsive">
           <img src="img/auspiciadores/mpclogo.png" class="img-responsive">
           <img src="img/auspiciadores/integrity.png" class="img-responsive">
-          <img src="img/auspiciadores/devacademy.png" class="img-responsive">
+          <img src="img/auspiciadores/devacademy.svg" class="img-responsive">
           <img src="img/auspiciadores/Logo_fedoralogo.png" class="img-responsive">
           <img src="img/auspiciadores/mejorandola_logo.png" class="img-responsive">
           <img src="img/auspiciadores/plazagrau.png" class="img-responsive">
           <img src="img/auspiciadores/Empresario.png" class="img-responsive">
+          <img src="img/auspiciadores/creativa pixel.png" class="img-responsive">
+          <img src="img/auspiciadores/jb.png" class="img-responsive">
+          <img src="img/auspiciadores/republica.png" class="img-responsive">
+          <img src="img/auspiciadores/upc.gif" class="img-responsive">
         </div>
       </section>
 
