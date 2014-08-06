@@ -1,7 +1,32 @@
 
 $('#magistral').on('click', soloMagistral);
 $('#especializada').on('click', soloEspecializada);
-$('#todo').on('click', soloTodo);
+$('#todo').on('click', soloTodo);   // evento
+$('#taller').on('click',soloTaller);
+
+function soloTaller(){
+
+	$('.timeline-entry').each(function() {
+		var elementoEtiquetado = $(this).data('target');
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
+			$(this).hide();
+		}
+		else{
+			$(this).show();
+		}
+	});
+
+	$('.timeline-entry-child').each(function(){
+		var elementoEtiquetado = $(this).data('target');
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='magistral'){
+			$(this).toggle();
+		}
+		else{
+			$(this).show();
+		}
+	});
+
+}
 
 function soloMagistral(){
 

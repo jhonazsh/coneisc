@@ -90,10 +90,9 @@
                                 </div>
                                 
                                 <div class="timeline-label">
-                                    <h2><a href="#">EMPRENDIMIENTO STARTUP EN EL PERÚ</a> <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif"></h2>
-                                    
-
-                                    <p>La conferencia de Emprendimiento Startup en el Perú estará a cargo del Mg. Alfred Kobayashi (UPC-Perú).</p>
+                                    <h2><a href="#">CREACIÓN DE STARTUPS ESCALABLES Y GLOBALES. </a> <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif"></h2>
+                                    <p>¿Como hacemos de Perú un hub tecnológico en el mundo?</p>
+                                    <p>Ponente: Mg. Alfred Kobayashi (UPC-Perú).</p>
                                 </div>
                             </div>
                             
@@ -106,8 +105,9 @@
                                     <i class="entypo-suitcase"></i>
                                 </div>
                                 <div class="timeline-label">
-                                    <h2><a href="#">TRAINER EN IT GOVERNANCE - COBIT </a><img class="img-thumbnail" src="http://www.nineonline.com.co/images/bandera-de-colombia.png"></h2>
-                                    <p>La Conferencia de Trainer en IT Governance - Cobit estará a cargo del Dr. Lucio Molina (Colombia).</p>
+                                    <h2><a href="#">APLICACIÓN DE COBIT EN LA VIDA REAL</a><img class="img-thumbnail" src="http://www.nineonline.com.co/images/bandera-de-colombia.png"></h2>
+                                    <p>Como se utiliza COBIT 5 para la implementación de gobierno de TI, el mejoramiento de procesos y la implementación de controles.</p>
+                                    <p>Ponente: Dr. Lucio Molina.</p>
                                 </div>
                             </div>
                         </article>
@@ -119,8 +119,8 @@
                                     <i class="entypo-suitcase"></i>
                                 </div>
                                 <div class="timeline-label">
-                                    <h2><a href="#">INTEGRITY </a><img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif"></h2>
-                                    <p>La Conferencia de Integrity estará a cargo del Mg. Juan Espinoza (Perú).</p>
+                                    <h2><a href="#">¿QUÉ APORTAMOS A NUESTRO PERÚ?</a><img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif"></h2>
+                                    <p>Ponente: Mg. Juan Espinoza.</p>
                                 </div>
                             </div>
                         </article>
@@ -167,7 +167,7 @@
                                         <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif">
                                     </h2>
                                     
-                                    <p>La conferencia de malware en dispositivos móviles estará a cargo del Ing. John Titto Noriega (Perú-Lima_ESET).
+                                    <p>Ponente: Ing. John Titto Noriega (ESET Latinoamérica).
                                     </p>
 
                                     
@@ -177,7 +177,7 @@
 
                         <article class="timeline-entry left-aligned ">
                            <div class="timeline-entry-inner ">
-                                <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45"><span class="hora">10:30-12:30</span> <span class="hora" >Martes 19</span></time>
+                                <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45"><span class="hora">10:30-14:00</span> <span class="hora" >Martes 19</span></time>
                                 
                                  <div class="timeline-icon bg-primary">
                                     <i class="entypo-camera"></i>
@@ -190,18 +190,59 @@
                                             <img class="img-thumbnail" src="http://cdn.popuz.com/media/img/flags/st1/tiny/uy.png">
                                         </h2>
                                         
-                                        <p>La conferencia de "Testear para conocer, conocer para testear" estará a cargo de la Dra. Monica Wodzislawski (Uruguay).
+                                        <p>Ponente: Dra. Monica Wodzislawski.
                                         </p>
                                     </div>
-                                    <br>
 
                                     <div class="timeline-entry-child" data-target="especializada">
+                                    <br>
                                         <h2>
-                                            <a href="#"><small>(Simultáneo)</small> PONENCIA ESPECIALIZADA </a> 
-                                            
+                                            <a href="#"><small>(Simultáneo)</small>OMNILITE: CENTRO DE DATOS INTEGRALES</a> 
+                                            <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif">
                                         </h2>
                                         
-                                        <p>La Ponencia Especializada estará a cargo del Ing. Jorge Oblitas
+                                        <p>Ponente: Ing. Juan Carlos Revilla
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="especializada">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>MODELOS INTEGRADOS DE GESTIÓN</a> 
+                                            <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif">
+                                        </h2>
+                                        
+                                        <p>Ponente: Ms. David Agreda
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>MOZILLA PERÚ - WEBMAKER PARTY</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: Ing. Juan Eladio Rosas
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>TALLER</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: DEVCODE
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>TALLER</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: DEVCODE
                                         </p>
                                     </div>
 
@@ -223,7 +264,7 @@
                                             <a href="#"><small>(Simultáneo)</small> TECHNICAL EVANGELIST EN MICROSOFT </a> 
                                             <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif">
                                         </h2>
-                                        <p>La conferencia de Technical Evangelist en Microsoft estará a cargo del Ing. Jorge Oblitas (Perú-UNMSM).
+                                        <p>Ponente: Ing. Jorge Oblitas.
                                         </p>
                                     </div>
                                     <br>
@@ -234,6 +275,36 @@
                                              
                                         </h2>
                                         <p>
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>FEDORA, MÁS QUE UN SISTEMA OPERATIVO</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: Comunidad FEDORA
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>DISEÑO GRÁFICO EN FEDORA 20</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: Comunidad FEDORA
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>FEDORA SPIN Y REMIX</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: Comunidad FEDORA
                                         </p>
                                     </div>
                                 </div>
@@ -253,17 +324,47 @@
                                             <a href="#"><small>(Simultáneo)</small> LA COMPUTACIÓN AUTONÓMICA Y LA AUTOADMINISTRACIÓN DE LAS APLICACIONES INFORMÁTICAS </a> 
                                             <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif">
                                         </h2>
-                                        <p>La conferencia de La Computación Autonómica y la Autoadministración de las Aplicaciones Informáticas estará a cargo del Ing. Felix Armando (Perú-UNMSM).
+                                        <p>Ponente: Ing. Felix Armando.
                                         </p>
                                     </div>
                                     <br>
                                     
                                     <div class="timeline-entry-child" data-target="especializada">
                                         <h2>
-                                            <a href="#"><small>(Simultáneo)</small> PONENCIA ESPECIALIZADA </a> 
+                                            <a href="#"><small>(Simultáneo)</small> CONTROL Y AUDITORÍA EN CLOUD COMPUTING, ASPECTOS A TENER EN CUENTA PARA EVALUAR LOS CONTROLES DE UN AMBIENTE EN LA NUBE </a> 
                                             
                                         </h2>
-                                        <p>La Ponencia Especializada estará a cargo del Ms. Alberto Mendoza de los Santos.
+                                        <p>Ponente: Dr. Lucio Molina.
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>INTERFACES Y ANIMACIONES PARA WINDOWS PHONE UTILIZANDO EXPRESSION BLEND</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: MSP UNT. Manuel Ruiz. 
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>REALIDAD AUMENTADA PARA WINDOWS PHONE 8 Y WINDOWS 8</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: MSP UPN. Robertho Rodríguez. 
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                    <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>APLICACIONES UNIVERSALES: TU APLICACIÓN EN TODAS LAS PLATAFORMAS, CON POCO TRABAJO</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: MSP UPAO. Wilson Vargas. 
                                         </p>
                                     </div>
                                 </div>
@@ -283,17 +384,17 @@
                                             <a href="#">TECNOLOGÍAS MICROSOFT EN LA NUBE</a> 
                                             <img class="img-thumbnail" src="http://escudosybanderas.es/iconos/icono_bandera-de-costa-rica.png">
                                         </h2>
-                                        <p>La conferencia de Tecnologías Microsoft en la Nube estará a cargo del Mg. Michael Arias (Costa Rica).
+                                        <p>Ponente: Mg. Michael Arias.
                                         </p>
                                     </div>
                                     <br>
                                     
                                     <div class="timeline-entry-child" data-target="especializada">
                                         <h2>
-                                            <a href="#">PONENCIA ESPECIALIZADA - COBIT 5</a> 
+                                            <a href="#">PONENCIA ESPECIALIZADA</a> 
                                             
                                         </h2>
-                                        <p>La Ponencia Especializada estará a cargo del Dr. Lucio Molina.
+                                        <p>Ponente: MS. Alberto Mendoza de los Santos.
                                         </p>
                                     </div>
                                 </div>
@@ -315,29 +416,51 @@
                                     <i class="entypo-camera"></i>
                                 </div>
                                 <div class="timeline-label">
-                                    <div class="timeline-entry-child" data-target="magistral">
-                                        <h2>
-                                            <a href="#"><small>(Simultáneo)</small> ARQUITECTURAS DE INTEROPERABILIDAD E INTEGRACIÓN DE DATOS A TRAVÉS DE ENFOQUES DE LINKED DATA </a> 
-                                            <img class="img-thumbnail" src="http://www.eluniverso.com/sites/default/files/styles/logo_page_equipo_16x16/public/equipos/bandera_de_ecuador.png">
-                                        </h2>
-                                        <p>
-                                            La Conferencia de Arquitecturas de Interoperabilidad e Integración de datos a través de enfoques de  LInked Data estará a cargo del Dr. Nelson Piedra (Ecuador).
-                                        </p>
-                                    </div>
-                                    <br>
+                                    
 
                                     <div class="timeline-entry-child" data-target="especializada">
                                         <h2>
-                                            <a href="#"><small>(Simultáneo)</small> ANÁLISIS DE PROCESOS DE NEGOCIOS MEDIANTE MINERÍA DE PROCESOS </a> 
+                                            <a href="#">ANÁLISIS DE PROCESOS DE NEGOCIOS MEDIANTE MINERÍA DE PROCESOS </a> 
                                             
                                         </h2>
                                         <p>
                                             La Ponencia Especializada de Análisi de Procesos de Negocios mediante Minería de Procesos estará a cargo del Mg.Michael Arias.
                                         </p> 
-                                    </div>                                
+                                    </div> 
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#">DESARROLLO DE APPS</a> 
+                                            
+                                        </h2>
+                                        <p>
+                                            Ponente: Microsoft
+                                        </p> 
+                                    </div>   
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#">DESARROLLO DE APPS</a> 
+                                            
+                                        </h2>
+                                        <p>
+                                            Ponente: Microsoft
+                                        </p> 
+                                    </div> 
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#">DESARROLLO DE APPS</a> 
+                                            
+                                        </h2>
+                                        <p>
+                                            Ponente: Microsoft
+                                        </p> 
+                                    </div>                               
                                 </div>
                             </div>                            
-                        </article> 
+                        </article>
 
                         <article class="timeline-entry">
                            <div class="timeline-entry-inner ">
@@ -348,28 +471,51 @@
                                 <div class="timeline-label">
                                     <div class="timeline-entry-child" data-target="magistral">
                                         <h2>
-                                            <a href="#"><small>(Simultáneo 10:30 - 11:30)</small> EMPRESARIO CELEBRIDAD </a> 
+                                            <a href="#"><small>(Simultáneo)</small> CÓMO GENERAR INGRESOS ONLINE A TRAVÉS DE LA PRODUCCIÓN EJECUTIVA</a> 
                                             
                                         </h2>
                                         <p>
+                                            Ponente: Productor Ejecutivo Renzo Zamora
                                         </p>
                                     </div>
-                                    <br>
                                     
                                     <div class="timeline-entry-child" data-target="especializada">
+                                        <br>
                                         <h2>
-                                            <a href="#"><small>(Simultáneo 10:30 - 12:30)</small> TESTING </a> 
+                                            <a href="#"><small>(Simultáneo)</small> TESTING </a> 
                                             
                                         </h2>
                                         <p>
-                                        La Ponencia Especializada de Testing estará a cargo de la Dra. Mónica Wodzislawski
+                                            Ponente: Dra. Mónica Wodzislawski
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small> HERRAMIENTAS PARA MINERÍA DE PROCESOS </a> 
+                                            
+                                        </h2>
+                                        <p>
+                                            Ponente: Mg. Michael Arias
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small> SISTEMA DE GESTIÓN AVANZADA EN PROCESOS </a> 
+                                            
+                                        </h2>
+                                        <p>
+                                            Ponente: Ms. David Agreda
                                         </p>
                                     </div>
                                 </div>
                             </div>                              
                         </article> 
 
-                        <article class="timeline-entry left-aligned " data-target="magistral">
+                        <article class="timeline-entry left-aligned">
                            <div class="timeline-entry-inner ">
                                 <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45"><span class="hora">12:00-13:30</span> <span class="hora" >Miercoles 20</span></time>
                                 
@@ -378,61 +524,68 @@
                                 </div>
                                 
                                 <div class="timeline-label">
-                                    <h2>
-                                        <a href="#">MEJORANDO.LA </a> 
-                                        <img class="img-thumbnail" src="http://www.nineonline.com.co/images/bandera-de-colombia.png">
-                                    </h2>
-                                    <p>La conferencia de Mejorando.la estará a cargo de Leonardo Esteban (Colombia-Perú).
-                                    </p>
+                                    <div class="timeline-entry-child" data-target="magistral">
+                                        <h2>
+                                            <a href="#"> FLUJO DE TRABAJO PARA UN DESARROLLADOR WEB FRONTEND </a> 
+                                            <img class="img-thumbnail" src="http://www.nineonline.com.co/images/bandera-de-colombia.png">
+                                        </h2>
+                                        <p>Ponente: Leonidas Esteban (Colombia-Perú).
+                                        </p>
+                                    </div>
                                 </div>
                             </div>                            
                         </article> 
 
-                        <article class="timeline-entry" data-target="especializada">
+                        <article class="timeline-entry">
                            <div class="timeline-entry-inner ">
-                                <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45"><span class="hora">14:30-16:30</span> <span class="hora" >Miercoles 20</span></time>
+                                <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45"><span class="hora">14:30-17:00</span> <span class="hora" >Miercoles 20</span></time>
                                 
                                  <div class="timeline-icon bg-info">
                                     <i class="entypo-camera"></i>
                                 </div>
                                 
                                 <div class="timeline-label">
-                                    <h2>
-                                        <a href="#"><small>(Simultáneo)</small> SEGURIDAD DE SERVIDORES WINDOWS - CERTIPRO</a> 
-                                    </h2>
-                                    
-                                    <p>La ponecia especializada en Seguridad de Servidores Windows estará a cargo CERTIPRO.
-                                    </p>
-                                    <br>
 
-                                    <h2>
-                                        <a href="#"><small>(Simultáneo)</small> PONENCIA ESPECIALIZADA</a> 
-                                    </h2>
-                                    
-                                    <p>La ponecia especializada estará a cargo del Mg. Juan Carlos.
-                                    </p>
+                                    <div class="timeline-entry-child" data-target="magistral">
+                                        <h2>
+                                            <a href=""><small>(Simultáneo)</small>
+                                                PONENCIA MAGISTRAL
+                                            </a>
+                                        </h2>
+                                        <p>Ponente: Google Perú
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="especializada">
+                                        <h2>
+                                        <a href="#"><small>(Simultáneo)</small> SEGURIDAD DE SERVIDORES WINDOWS</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: CERTIPRO.
+                                        </p>
+                                    </div>
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small> COMO USAR FEDORA Y NO MORIR EN EL INTENTO</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: Comunidad FEDORA
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <br>
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small> SECURITY WEB CON FEDORA</a> 
+                                        </h2>
+                                        
+                                        <p>Ponente: Comunidad FEDORA
+                                        </p>
+                                    </div>
                                 </div>
                             </div>                              
-                        </article> 
-
-                        <article class="timeline-entry left-aligned" data-target="magistral">
-                           <div class="timeline-entry-inner ">
-                                <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45"><span class="hora">15:00-17:00</span> <span class="hora" >Miercoles 20</span></time>
-                                
-                                 <div class="timeline-icon bg-info">
-                                    <i class="entypo-camera"></i>
-                                </div>
-                                
-                                <div class="timeline-label">
-                                    <h2>
-                                        <a href="#">GOOGLE PERÚ </a> 
-                                    </h2>
-                                    
-                                    <p>
-                                    </p>
-                                </div>
-                            </div>                              
-                        </article> 
+                        </article>  
 
                         <article class="timeline-entry" data-target="especializada">
                            <div class="timeline-entry-inner ">
@@ -443,39 +596,48 @@
                                 </div>
                                 
                                 <div class="timeline-label">
-                                    <h2>
-                                        <a href="#">¿POR QUÉ CERTIFICARTE EN GESTIÓN DE SERVICIOS DE TI-ITIL? - CERTIPRO </a> 
-                                    </h2>
-                                    
-                                    <p>
-                                    La ponencia especializada estará a cargo de CERTIPRO
-                                    </p>
+                                    <div class="timeline-entry-child" data-target="magistral">
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>LOCALIZACIÓN Y MAPEO SIMULTÁNEO DE UN ROBOT MÓVIL, UTILIZANDO HARDWARE LIBRE</a> 
+                                        </h2>
+                                        <p>Ponente: UNMSM
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="especializada">
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>¿POR QUÉ CERTIFICARTE EN GESTIÓN DE SERVICIOS DE TI – ITIL?</a> 
+                                        </h2>
+                                        <p>Ponente: CERTIPRO
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>IBM - MODELADO DE SISTEMAS DE INFORMACIÓN</a> 
+                                        </h2>
+                                        <p>Ponente: Ms. Juan Santos Fernandez
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>TALLER</a> 
+                                        </h2>
+                                        <p>Ponente: Ms. Ricardo Mendoza
+                                        </p>
+                                    </div>
+
+                                    <div class="timeline-entry-child" data-target="taller">
+                                        <h2>
+                                            <a href="#"><small>(Simultáneo)</small>TESTING</a> 
+                                        </h2>
+                                        <p>Ponente: Dra. Monica Wodzislawski
+                                        </p>
+                                    </div>
                                 </div>
                             </div>                              
-                        </article> 
-
-                        <article class="timeline-entry left-aligned" data-target="magistral">
-                           <div class="timeline-entry-inner ">
-                                <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45"><span class="hora">17:30-19:00</span> <span class="hora" >Miercoles 20</span></time>
-                                
-                                 <div class="timeline-icon bg-success">
-                                    <i class="entypo-camera"></i>
-                                </div>
-                                
-                                <div class="timeline-label">
-                                    <h2>
-                                        <a href="#">LOCALIZACIÓN Y MAPEO SIMULTÁNEO DE UN ROBOT MÓVIL UTILIZANDO HARDWARE LIBRE </a> 
-                                        
-                                    </h2>
-                                    
-                                    <p>La conferencia de Localización y Mapeo simultáneo de un Robot Móvil utilizando Hardware Libre estará a cargo de UNMSM. Facultad de Ingenieria de Sistemas e Informática.
-                                    </p>
-                                </div>
-                            </div>                              
-                        </article>
-
-
-                        
+                        </article>                      
 
                         <article class="timeline-entry right-aligned ">
                            <div class="timeline-entry-inner ">
@@ -488,20 +650,20 @@
                                 <div class="timeline-label">
                                     <div class="timeline-entry-child" data-target="magistral">
                                         <h2>
-                                            <a href="#">WEB SEMANTICA</a> 
+                                            <a href="#"><small>(Simultáneo)</small>WEB SEMANTICA</a> 
                                             <img class="img-thumbnail" src="http://www.emol.com/deportes/relatos_envivo/futbol/amistosos/banderas/per.gif">
                                         </h2>
-                                        <p>La conferencia de Web Semántica estará a cargo del Mg. Edwin Valencia (UNC-Perú).
+                                        <p>Ponente: Mg. Edwin Valencia.
                                         </p>
                                     </div>
                                     <br>
 
                                     <div class="timeline-entry-child" data-target="especializada">
                                         <h2>
-                                            <a href="#">MODELOS INTEGRADOS DE GESTIÓN</a> 
+                                            <a href="#"><small>(Simultáneo)</small>PONENCIA ESPECIALIZADA</a> 
                                             
                                         </h2>
-                                        <p>La Ponencia Especializada de Modelos Integrados estará a cargo del Ms. David Agreda (UNT-Perú).
+                                        <p>Ponente: Jorge Oblitas
                                         </p>
                                     </div>  
                                 </div>
