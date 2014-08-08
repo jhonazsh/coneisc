@@ -1,18 +1,17 @@
-<?php include('base.php'); ?>
+<?php include ('base.php');?>
 
-<?php startblock('titulo'); ?>
-  Inscripciones a Coneisc 2014
-<?php endblock(); ?>
+<?php startblock('titulo');?>
+Inscripciones a Coneisc 2014
+<?php endblock();?>
 
-<?php startblock('contenido'); ?>
-  
-  <div class="banner banner-inscripcion">
+<?php startblock('contenido');?>
+<div class="banner banner-inscripcion">
       <div class="container-banner">
         <!-- Indicators -->
           <div class="container">
 
             <div class="row">
-              
+
               <div class="col-sm-6">
                 <h1 class="titulo-principal">Inscripciones CONEISC</h1>
                 <p class="parrafo-principal color-blanco">¡No esperes el ultimo momento!</p>
@@ -59,7 +58,23 @@
 
     </section>
 
-<?php endblock(); ?>
+<?php endblock();?>
+
+<?php startblock('scripts');?>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53564315-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<?php endblock();?>
 
 
-    

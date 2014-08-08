@@ -1,18 +1,16 @@
-<?php include('base.php'); ?>
+<?php include ('base.php');?>
 
-<?php startblock('title') ?> 
-  XXII CONEISC 2014 
-<?php endblock() ?>
+<?php startblock('title')?>XXII CONEISC 2014
+<?php endblock()?>
 
-<?php startblock('contenido'); ?>
-
-  <div class="banner">
+<?php startblock('contenido');?>
+<div class="banner">
     <div class="container-banner">
       <!-- Indicators -->
       <div class="container">
 
         <div class="row">
-                    
+
           <div class="col-md-6 col-sm-10 texto-centro-responsive">
             <h1 class="titulo-principal">XXII CONEISC 2014</h1>
             <p class="parrafo-principal color-blanco">XXII Congreso Nacional de Estudiantes de Ingeniería de Sistemas y Computación - Trujillo 2014</p>
@@ -35,7 +33,7 @@
         </div>
 
       </div>
-      
+
     </div>
 
   </div>
@@ -64,7 +62,7 @@
                   <a href="#" class="btn btn-negro">Ver más</a>
               </div>
             </div>
-          </div>      
+          </div>
         </section>
 
         <!-- Bloque Jhonazsh -->
@@ -125,7 +123,7 @@
 
       <section class="sponsor">
         <div class="container" align="center">
-            
+
           <div class="btn btn-negro-no">Auspiciadores</div>
 
           <img src="img/auspiciadores/microsoft-logo.png" class="img-responsive">
@@ -198,13 +196,27 @@
                 </div>
               </div>
 
-            </div>       
+            </div>
 
           </div>
       </section>
 
-<?php endblock(); ?>
+<?php endblock();?>
 
+<?php startblock('scripts');?>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-53564315-1', 'auto');
+  ga('send', 'pageview');
 
-    
+</script>
+
+<?php endblock();?>
+

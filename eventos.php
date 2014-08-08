@@ -1,10 +1,10 @@
-<?php include ('base.php'); ?>
+<?php include ('base.php');?>
 
-<?php startblock('titulo'); ?>
-    XXII CONEISC 2014 | Eventos
-<?php endblock(); ?>
+<?php startblock('titulo');?>
+XXII CONEISC 2014 | Eventos
+<?php endblock();?>
 
-<?php startblock('contenido'); ?><div class="banner banner-inscripcion">
+<?php startblock('contenido');?><div class="banner banner-inscripcion">
       <div class="container-banner">
         <!-- Indicators -->
           <div class="container">
@@ -29,7 +29,7 @@
                   <h2>Participa </h2>
                 </div>
             </div>
-           
+
             <div class="row caja-eventos">
                 <div class="col-md-12 ">
                     <div class="panel panel-default panel-customize">
@@ -100,7 +100,7 @@
                   <h2>Entretenimiento </h2>
                 </div>
             </div>
-            
+
             <div class="row caja-eventos relleno-abajo-uno">
                 <div class="col-md-12">
                     <div class="panel panel-default panel-customize">
@@ -162,5 +162,22 @@
             </div>
         </div>
     </section>
-<?php endblock(); ?>
+<?php endblock();?>
+
+<?php startblock('scripts');?>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53564315-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<?php endblock();?>
 

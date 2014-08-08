@@ -1,12 +1,11 @@
-<?php include('base.php'); ?>
+<?php include ('base.php');?>
 
-<?php startblock('titulo'); ?>
-    XXII CONEISC 2014 | Contáctanos
-<?php endblock(); ?>
+<?php startblock('titulo');?>
+XXII CONEISC 2014 | Contáctanos
+<?php endblock();?>
 
-<?php startblock('contenido'); ?>
-
-	<div class="banner banner-inscripcion">
+<?php startblock('contenido');?>
+<div class="banner banner-inscripcion">
       <div class="container-banner">
         <!-- Indicators -->
           <div class="container">
@@ -31,7 +30,7 @@
 				<div class="col-md-6">
 					<form action="mensaje.php" method="POST" role="form" id="formContacto">
 						<legend><span class="glyphicon glyphicon-envelope"></span> Envíanos un mensaje</legend>
-		
+
 						<div class="form-group">
 							<label>Nombre: </label>
 							<input type="text" name="txtNombre" class="form-control" placeholder="* Tu nombre"><br>
@@ -42,14 +41,13 @@
 							<label>Mensaje: </label>
 							<textarea name="txtMensaje" class="form-control" rows="8">
 							</textarea>
-						</div>					
-						<?php 
-							if(isset($_GET['msg'])){
-								echo $_GET['msg']; 
-							}
-						?>
-
-						<input class="btn btn-azul" type="submit" name="Enviar" value="Enviar">
+						</div>
+<?php
+if (isset($_GET['msg'])) {
+	echo $_GET['msg'];
+}
+?>
+<input class="btn btn-azul" type="submit" name="Enviar" value="Enviar">
 					</form>
 				</div>
 				<div class="col-md-6">
@@ -61,10 +59,10 @@
 	</section>
 	<br>
 
-<?php endblock(); ?>
+<?php endblock();?>
 
-<?php startblock('scripts'); ?>
-	<script src="js/jquery.validate.min.js"></script>
+<?php startblock('scripts');?>
+<script src="js/jquery.validate.min.js"></script>
 	<script type="text/javascript">
 		$(function(){
         $('#formContacto').validate({
@@ -98,7 +96,23 @@
                 	required: "<p style='color: red;'>* Debe ingresar un mensaje</p>"
                 }
             }
-        });    
+        });
     });
 	</script>
-<?php endblock(); ?>
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53564315-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<?php endblock();?>

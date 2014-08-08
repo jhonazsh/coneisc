@@ -1,17 +1,17 @@
-<?php include('base.php'); ?>
+<?php include ('base.php');?>
 
-<?php startblock('titulo'); ?>
-    XXII CONEISC 2014 | Trujillo
-<?php endblock(); ?>
+<?php startblock('titulo');?>
+XXII CONEISC 2014 | Trujillo
+<?php endblock();?>
 
-<?php startblock('contenido'); ?>
-    <div class="banner banner-inscripcion">
+<?php startblock('contenido');?>
+<div class="banner banner-inscripcion">
       <div class="container-banner">
         <!-- Indicators -->
           <div class="container">
 
             <div class="row">
-              
+
               <div class="col-sm-6">
                 <h1 class="titulo-principal">Trujillo CONEISC</h1>
                 <p class="parrafo-principal color-blanco">¡Conoce nuestro atractivos turisticos!</p>
@@ -45,7 +45,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/huanchaco.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -59,7 +59,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/chanchan.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -67,15 +67,15 @@
                                      </p>
                                      </div>
                                  </div>
-                         </div> 
-                        
+                         </div>
+
                         <div class="row">
                                  <div class="col-xs-12 col-sm-6 col-md-6">
                                     <h3 class="text-center">Plaza de armas</h3>
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/plazadearmas.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -89,17 +89,17 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/huaca.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                         <p class="text-justify">
-                                            Las Huacas del Sol y de la luna es un complejo arqueológico ubicado en la costa norte del Perú, considerados como un santuario mochica constituido por un conjunto de monumentos situados a unos cinco kilómetros al sur deTrujillo, en el distrito de Moche.     
+                                            Las Huacas del Sol y de la luna es un complejo arqueológico ubicado en la costa norte del Perú, considerados como un santuario mochica constituido por un conjunto de monumentos situados a unos cinco kilómetros al sur deTrujillo, en el distrito de Moche.
                                         </p>
                                      </div>
                                  </div>
-                         </div> 
+                         </div>
 
-                        
+
                         </div>
                         <br>
                   </div>
@@ -112,7 +112,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/hotelgrau.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -132,7 +132,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/hotelchimu.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                         <p class="text-justify">
@@ -145,15 +145,15 @@
                                         </p>
                                      </div>
                                  </div>
-                         </div> 
-                        
+                         </div>
+
                         <div class="row">
                                  <div class="col-xs-12 col-sm-6 col-md-6">
                                     <h3 class="text-center">Hotel San Andrés</h3>
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/hotelsanandres.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -172,7 +172,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/hotelfrayle.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                         <p class="text-justify">
@@ -181,11 +181,11 @@
                                             Tarifas:
                                             Simple s/80
                                             Doble s/120
-                                            Triple s/160     
+                                            Triple s/160
                                         </p>
                                      </div>
                                  </div>
-                         </div> 
+                         </div>
 
                         <div class="centrar">
                             <a class="btn btn-azul" type="button" href="descargas/trujillo/Hoteles.pdf" target="_blank">
@@ -203,7 +203,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/cebicheria.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -219,7 +219,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/pizza.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                         <p class="text-justify">
@@ -228,15 +228,15 @@
                                         </p>
                                      </div>
                                  </div>
-                         </div> 
-                        
+                         </div>
+
                         <div class="row">
                                  <div class="col-xs-12 col-sm-6 col-md-6">
                                     <h3 class="text-center">Chifa Hing Da</h3>
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/chifa.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -246,7 +246,7 @@
                                          </p>
                                      </div>
                                  </div>
-                         </div> 
+                         </div>
                          <div class="centrar">
                             <a class="btn btn-azul" type="button" href="descargas/trujillo/Restaurantes.pdf" target="_blank">
                                 Restaurantes
@@ -263,7 +263,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/mall.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -277,7 +277,7 @@
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/real.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                         <p class="text-justify">
@@ -285,15 +285,15 @@
                                         </p>
                                      </div>
                                  </div>
-                         </div> 
-                        
+                         </div>
+
                         <div class="row">
                                  <div class="col-xs-12 col-sm-6 col-md-6">
                                     <h3 class="text-center">Jardín Botánico</h3>
                                     <div class="img-centrar-trujillo">
                                         <img src="img/trujillo/jardin.jpg" class="img-trujillo" alt="">
                                     </div>
-                                     
+
                                      <br>
                                      <div class="text-trujillo">
                                          <p class="text-justify">
@@ -301,7 +301,7 @@
                                          </p>
                                      </div>
                                  </div>
-                         </div> 
+                         </div>
                         </div>
                         <br>
                   </div>
@@ -310,5 +310,22 @@
 
         </div>
     </section>
-<?php endblock(); ?>
+<?php endblock();?>
+
+<?php startblock('scripts');?>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];
+a.async=1;
+a.src=g;
+m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53564315-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<?php endblock();?>
 
