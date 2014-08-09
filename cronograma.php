@@ -309,7 +309,7 @@ XXII CONEISC 2014 | Cronograma
                         </div>
                     </div>
                 </article>
-                <article class="timeline-entry right-aligned">
+                <article class="timeline-entry right-aligned" id="desaparece3">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45">
                             <span class="hora">19:30-21:30</span>
@@ -525,7 +525,7 @@ XXII CONEISC 2014 | Cronograma
                         </div>
                     </div>
                 </article>
-                <article class="timeline-entry right-aligned ">
+                <article class="timeline-entry right-aligned " id="desaparece3">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45">
                             <span class="hora">19:30-21:30</span>
@@ -575,7 +575,7 @@ XXII CONEISC 2014 | Cronograma
                         <i class="entypo-camera">Jueves 21</i>
                     </div>
                 </div>
-                <article class="timeline-entry right-aligned ">
+                <article class="timeline-entry" id="desaparece3">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45">
                             <span class="hora">08:00-13:00</span>
@@ -794,7 +794,7 @@ XXII CONEISC 2014 | Cronograma
                         </div>
                     </div>
                 </article>
-                <article class="timeline-entry right-aligned">
+                <article class="timeline-entry right-aligned" id="desaparece3">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45">
                             <span class="hora">10:30-12:30</span>
@@ -820,7 +820,7 @@ XXII CONEISC 2014 | Cronograma
                         </div>
                     </div>
                 </article>
-                <article class="timeline-entry right-aligned">
+                <article class="timeline-entry right-aligned" id="desaparece3">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45">
                             <span class="hora">12:00-15:00</span>

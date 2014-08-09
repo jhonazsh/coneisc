@@ -12,7 +12,7 @@ function soloTaller(){
 	$(this).addClass('btn-cro');
 	$('article').each(function() {
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
+		if(elementoEtiquetado=='magistral'|| elementoEtiquetado=='evento' || elementoEtiquetado=='especializada'){
 			$(this).hide();
 		}
 		else{
@@ -22,7 +22,7 @@ function soloTaller(){
 
 	$('div').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
+		if(elementoEtiquetado=='magistral'|| elementoEtiquetado=='evento' || elementoEtiquetado=='especializada'){
 			$(this).toggle();
 		}
 		else{
@@ -32,13 +32,14 @@ function soloTaller(){
 
 	$('.salto').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
+		if(elementoEtiquetado=='magistral'|| elementoEtiquetado=='evento' || elementoEtiquetado=='especializada'){
 			$(this).hide();
 		}
 		else{
 			$(this).show();
 		}
 	});
+	$('#desaparece3').hide();
 
 }
 
