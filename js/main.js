@@ -1,4 +1,3 @@
-
 $('#magistral').on('click', soloMagistral);
 $('#especializada').on('click', soloEspecializada);
 $('#todo').on('click', soloTodo);   // evento
@@ -76,6 +75,7 @@ function soloMagistral(){
 			$(this).show();
 		}
 	});
+	$('#desaparece').hide();
 
 }
 
@@ -112,6 +112,7 @@ function soloEspecializada(){
 			$(this).show();
 		}
 	});
+	$('#desaparece2').hide();
 }
 
 function soloTodo(){

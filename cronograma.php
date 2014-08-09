@@ -340,7 +340,7 @@ XXII CONEISC 2014 | Cronograma
                         <i class="entypo-camera">Miercoles 20</i>
                     </div>
                 </div>
-                <article class="timeline-entry left-aligned ">
+                <article class="timeline-entry left-aligned" id="desaparece">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45">
                             <span class="hora">08:00-10:00</span>
@@ -741,41 +741,21 @@ XXII CONEISC 2014 | Cronograma
                             </div>
                 </article>
                 <article class="timeline-entry left-aligned" data-target="especializada">
-                           <div class="timeline-entry-inner ">
-                                <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45"><span class="hora">19:30-21:30</span> <span class="hora" >Jueves 21</span></time>
-
-                                 <div class="timeline-icon bg-primary">
-                                    <i class="entypo-camera"></i>
-                                </div>
-
-                                <div class="timeline-label">
-                                    <h2>
-                                        <a href="#">BUSINESS PROCESS MANAGEMENT </a>
-
-                                    </h2>
-
-                                    <p>La Ponencia Especializada estará a cargo del Mg. Issac Castillo.
-                                    </p>
-                                </div>
-                            </div>
-                </article>
-                <article class="timeline-entry right-aligned" data-target="evento">
-                           <div class="timeline-entry-inner ">
-                                <time class="timeline-time margen-derecha" datetime="2014-01-10T03:45"><span class="hora">20:00-21:30</span> <span class="hora" >Jueves 21</span></time>
-
-                                 <div class="timeline-icon bg-danger">
-                                    <i class="entypo-camera"></i>
-                                </div>
-
-                                <div class="timeline-label">
-                                    <h2>
-                                        <a href="#">CONCURSO FORO SISTÉMICO </a>
-                                    </h2>
-                                    <p>
-                                        Pensar de forma sistémica ayuda a resolver problemas complejos. Demuestra tus conocimientos aplicándolos a un escenario de nuestra realidad. ¡Ayudemos a construir un Perú mejor!
-                                    </p>
-                                </div>
-                            </div>
+                    <div class="timeline-entry-inner ">
+                        <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45">
+                            <span class="hora">19:30-21:30</span>
+                            <span class="hora" >Jueves 21</span>
+                        </time>
+                        <div class="timeline-icon bg-primary">
+                            <i class="entypo-camera"></i>
+                        </div>
+                        <div class="timeline-label">
+                            <h2>
+                                <a href="#">BUSINESS PROCESS MANAGEMENT </a>
+                            </h2>
+                            <p>Ponente: Mg. Issac Castillo</p>
+                        </div>
+                    </div>
                 </article>
                 <div class="col-xs-8 col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8  col-lg-8 pull-right ">
                     <div class="timeline-icon bg-info">
@@ -884,7 +864,7 @@ XXII CONEISC 2014 | Cronograma
                         </div>
                     </div>
                 </article>
-                <article class="timeline-entry left-aligned ">
+                <article class="timeline-entry left-aligned" id="desaparece2">
                     <div class="timeline-entry-inner ">
                         <time class="timeline-time margen-izquierda" datetime="2014-01-10T03:45">
                             <span class="hora">15:00-17:00</span>
@@ -899,6 +879,12 @@ XXII CONEISC 2014 | Cronograma
                                     <a href="#">MESA REDONDA - ACREDITACIÓN Y LEY UNIVERSITARIA</a>                                        
                                 </h2>                                        
                                 <p>TEMA: Acreditación de las escuelas de ingeniería</p>
+                            </div>
+                            <div class="timeline-entry-child" data-target="taller">
+                                <h2>
+                                    <a href="#">DESARROLLO DE APLICACIONES WEB USANDO SPRING FRAMEWORK Y STS</a>                                        
+                                </h2>                                        
+                                <p>Ponente: Ms. Edwin Maraví</p>
                             </div>
                         </div>
                     </div>
