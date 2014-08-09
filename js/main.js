@@ -10,8 +10,8 @@ function quitarClase(){
 
 function soloTaller(){
 	quitarClase();
-	$('#taller').addClass('btn-cro');
-	$('.timeline-entry').each(function() {
+	$(this).addClass('btn-cro');
+	$('article').each(function() {
 		var elementoEtiquetado = $(this).data('target');
 		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
 			$(this).hide();
@@ -21,10 +21,20 @@ function soloTaller(){
 		}
 	});
 
-	$('.timeline-entry-child').each(function(){
+	$('div').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='magistral'){
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
 			$(this).toggle();
+		}
+		else{
+			$(this).show();
+		}
+	});
+
+	$('.salto').each(function(){
+		var elementoEtiquetado = $(this).data('target');
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
+			$(this).hide();
 		}
 		else{
 			$(this).show();
@@ -35,10 +45,11 @@ function soloTaller(){
 
 function soloMagistral(){
 	quitarClase();
-	$('#magistral').addClass('btn-cro');
+	$(this).addClass('btn-cro');
 	$('.timeline-entry').each(function() {
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento'){
+		
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='taller'){
 			$(this).hide();
 		}
 		else{
@@ -48,7 +59,17 @@ function soloMagistral(){
 
 	$('.timeline-entry-child').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='especializada'){
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='taller'){
+			$(this).toggle();
+		}
+		else{
+			$(this).show();
+		}
+	});
+
+	$('.salto').each(function(){
+		var elementoEtiquetado = $(this).data('target');
+		if(elementoEtiquetado=='especializada' || elementoEtiquetado=='evento' || elementoEtiquetado=='taller'){
 			$(this).toggle();
 		}
 		else{
@@ -60,10 +81,10 @@ function soloMagistral(){
 
 function soloEspecializada(){
 	quitarClase();
-	$('#especializada').addClass('btn-cro');
+	$(this).addClass('btn-cro');
 	$('.timeline-entry').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='magistral' || elementoEtiquetado=='evento'){
+		if(elementoEtiquetado=='taller' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
 			$(this).hide();
 		}
 		else{
@@ -73,7 +94,18 @@ function soloEspecializada(){
 
 	$('.timeline-entry-child').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='magistral'){
+		if(elementoEtiquetado=='taller' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
+			$(this).hide();
+		}
+		else{
+			$(this).show();
+		}
+	});
+
+
+	$('.salto').each(function(){
+		var elementoEtiquetado = $(this).data('target');
+		if(elementoEtiquetado=='taller' || elementoEtiquetado=='evento' || elementoEtiquetado=='magistral'){
 			$(this).hide();
 		}
 		else{
@@ -84,18 +116,19 @@ function soloEspecializada(){
 
 function soloTodo(){
 	quitarClase();
-	$('#todo').addClass('btn-cro');
+	$(this).addClass('btn-cro');
 	$('.timeline-entry').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='magistral' || elementoEtiquetado=='evento' || elementoEtiquetado=='especializada'){
-			$(this).show();
-		}
+		$(this).show();
 	});
 
 	$('.timeline-entry-child').each(function(){
 		var elementoEtiquetado = $(this).data('target');
-		if(elementoEtiquetado=='magistral' || elementoEtiquetado=='especializada'){
-			$(this).show();
-		}
+		$(this).show();
+	});
+
+	$('.salto').each(function(){
+		var elementoEtiquetado = $(this).data('target');
+		$(this).show();
 	});
 }

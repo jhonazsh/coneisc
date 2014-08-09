@@ -55,6 +55,7 @@
 <?php startblock('contenido');?>
 
 <?php endblock();?>
+
 <footer class="footer">
     <br><br>
     <div class="container">
@@ -92,7 +93,7 @@
     <script src="js/bootstrap.min.js"></script>
 
 <?php startblock('scripts');?>
-    <?php endblock();?>
+<?php endblock();?>
 
 </body>
 </html>
