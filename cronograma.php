@@ -25,11 +25,12 @@ XXII CONEISC 2014 | Cronograma
 
     <div class="container">
         <div class="row relleno-arriba-uno">
-            <div class="col-md-offset-1 col-md-10 margen-arriba margen-izq">
+            <div class="col-md-offset-1 col-md-10 margen-arriba margen-izq" style="text-align: center;">
                 <a class="btn btn-no-fondo btn-mas titulofooter btn-cro" id="todo">Todo</a>
                 <a class="btn btn-no-fondo btn-mas titulofooter" id="magistral">Ponencias Magistrales</a>
                 <a class="btn btn-no-fondo btn-mas titulofooter" id="especializada">Ponencias Especializadas</a>
                 <a class="btn btn-no-fondo btn-mas titulofooter" id="taller">Talleres</a>
+                <a class="btn btn-no-fondo btn-mas titulofooter" id="descarga">Descargar cronograma</a>
             </div>
         </div>
 
