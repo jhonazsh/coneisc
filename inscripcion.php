@@ -19,9 +19,9 @@ Inscripciones a Coneisc 2014
 
               <div class="col-sm-6">
                 <div class="oferta text-center">
-                  <h3>¡Solo en Julio!</h3>
-                  <p>Estudiantes: 110 soles</p>
-                  <p>Profesionales: 130 soles</p>
+                  <h3>¡Solo en Agosto!</h3>
+                  <p>Estudiantes: 130 soles</p>
+                  <p>Profesionales: 150 soles</p>
                 </div>
               </div>
 
