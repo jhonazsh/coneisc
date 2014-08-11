@@ -135,7 +135,7 @@ XXII CONEISC 2014 | Cronograma
                             <h2>
                                 <a href="#">FIESTA DE APERTURA</a>
                             </h2>
-                            <p>La fiesta de apertura será en la discoteca "El Estribo"</p>
+                            <p>Lugar: discoteca "El Estribo"</p>
                         </div>
                     </div>
                 </article>
@@ -562,11 +562,10 @@ XXII CONEISC 2014 | Cronograma
                         </div>
                         <div class="timeline-label">
                             <h2>
-                                <a href="#">NOCHE DE TALENTOS </a>
+                                <a href="#">FIESTA DE CONFRATERNIDAD </a>
                             </h2>
-                            <p>
-                                Cantas, bailas o haces algo especial? Esta es la oportunidad que estaba esperando, comparte tus talentos con nosotros participa en nuestra noche de talentos, habra increibles premios. ¡Ven y participa!
-                            </p>
+                            <!-- <p>    
+                            </p> -->
                         </div>
                     </div>
                 </article>
@@ -919,7 +918,9 @@ XXII CONEISC 2014 | Cronograma
                             <h2>
                                 <a href="#">FIESTA DE GALA</a>
                             </h2>
-                            <!-- <p></p> -->
+                            <p>
+                                Lugar: El Limonero
+                            </p>
                         </div>
                     </div>
                 </article>
