@@ -73,26 +73,7 @@ XXII CONEISC 2014 | Eventos
                       </div>
                     </div>
                 </div>
-                <div class="col-md-12">
-                    <div class="panel panel-default panel-customize">
-                      <div class="panel-body panel-body-customize">
 
-                        <div class="row">
-                            <div class="col-md-2">
-                                <span class="icon-users icon-estilo-event"></span>
-                            </div>
-                            <div class="col-md-6">
-                                <h3>Foro Sistémico</h3>
-                                <p>Pensar de forma sistémica ayuda a resolver problemas complejos. Demuestra tus conocimientos aplicándolos a un escenario de nuestra realidad. Ayudemos a construir un Perú mejor.</p>
-                            </div>
-                            <div class="col-md-4 relleno-arriba-dos">
-                                <a type="button" class="btn btn-azul" href="descargas/bases/forosistemico.pdf" target="_blank">Ver Bases</a>
-                            </div>
-                        </div>
-
-                      </div>
-                    </div>
-                </div>
             </div>
 
             <div class="row caja-eventos relleno-arriba-uno">
@@ -102,27 +83,7 @@ XXII CONEISC 2014 | Eventos
             </div>
 
             <div class="row caja-eventos relleno-abajo-uno">
-                <div class="col-md-12">
-                    <div class="panel panel-default panel-customize">
-                      <div class="panel-body panel-body-customize">
 
-                        <div class="row">
-                            <div class="col-md-2">
-                                <span class="icon-accessibility icon-estilo-event"></span>
-                            </div>
-                            <div class="col-md-6">
-                                <h3 >Noche de talentos</h3>
-                                <p >Cantas, bailas o haces algo especial? Esta es la oportunidad que estaba esperando, comparte tus taalentos con nosotros participa en nuestra noche de talentos, habra increibles premios. ¡Ven y participa!</p>
-                            </div>
-                            <div class="col-md-4 relleno-arriba-dos">
-                                <a type="button" class="btn btn-azul" href="descargas/bases/nochetalentos.pdf" target="_blank">Ver Bases</a>
-                            </div>
-                        </div>
-
-
-                      </div>
-                    </div>
-                </div>
                 <div class="col-md-12">
                     <div class="panel panel-default panel-customize">
                       <div class="panel-body panel-body-customize">

@@ -87,27 +87,12 @@
             </div>
             <div class="col-md-4 col-xs-6">
               <p class="alinear-centro">
-                <span class="icon-users icon-estilo"></span>
-              </p>
-              <h4 class="headevent">Foro sistémico</h4>
-              <p class="alinear-centro content-event">Demuestra tus conocimientos aplicándolos a un escenario de nuestra realidad. Ayudemos a construir un Perú mejor.</p>
-            </div>
-
-            <div class="col-md-4 col-xs-6">
-              <p class="alinear-centro">
-                <span class="icon-accessibility icon-estilo"></span>
-              </p>
-              <h4 class="headevent">Noche de talentos</h4>
-              <p class="alinear-centro content-event">Cantas, bailas o haces algo especial? Esta es la oportunidad que estaba esperando, participa y comparte tus talentos con nosotros.</p>
-            </div>
-            <div class="col-md-4 col-xs-6">
-              <p class="alinear-centro">
                 <span class="icon-happy icon-estilo"></span>
               </p>
               <h4 class="headevent">Fiesta de Apertura</h4>
               <p class="alinear-centro content-event">La fiesta de apertura se realizará el día lunes 18 de Agosto a las 9:00 p.m en "EL ESTRIBO", ubicado en Jr San Martín N°809.</p>
             </div>
-            <div class="col-md-4 col-xs-6">
+            <div class="col-md-offset-4 col-md-4 col-xs-6">
               <p class="alinear-centro">
                 <span class="icon-grin icon-estilo"></span>
               </p>
