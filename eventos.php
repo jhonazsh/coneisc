@@ -112,7 +112,7 @@ XXII CONEISC 2014 | Eventos
                             </div>
                             <div class="col-md-10">
                                 <h3 >Fiesta de Clausura</h3>
-                                <p >La fiesta de clausura se realizará el dia viernes 22 a las 9:00 p.m en EL MOCHICA de MOCHE. Ubicado en Avenida La Marina S/N - Moche - La Libertad. Cerraremos con broche de oro esta semana con esta fiesta de estilo elegante.</p>
+                                <p >La fiesta de clausura se realizará el dia viernes 22 a las 9:00 p.m en EL LIMONERO Ubicado en Urb. Vista Hermosa Mz. C Lt. 1 - Trujillo - La Libertad. Cerraremos con broche de oro esta semana con esta fiesta de estilo elegante.</p>
                             </div>
 
                         </div>

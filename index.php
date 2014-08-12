@@ -97,7 +97,7 @@
                 <span class="icon-grin icon-estilo"></span>
               </p>
               <h4 class="headevent">Fiesta de Clausura</h4>
-              <p class="alinear-centro content-event">Se realizará el día viernes 22 a las 9:00 p.m en EL MOCHICA de MOCHE. Ubicado en Av. La Marina S/N - Moche - La Libertad.</p>
+              <p class="alinear-centro content-event">Se realizará el día viernes 22 a las 9:00 p.m en EL LIMONERO. Ubicado en Urb. Vista Hermosa Mz. C Lt. 1 Trujillo - La Libertad.</p>
             </div>
           </div>
         </div>
