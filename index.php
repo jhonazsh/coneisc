@@ -142,6 +142,7 @@
           <img src="img/auspiciadores/jb.png" class="img-responsive">
           <img src="img/auspiciadores/republica.png" class="img-responsive">
           <img src="img/auspiciadores/upc.gif" class="img-responsive">
+          <img src="img/auspiciadores/eventos.jpg" class="img-responsive" height="70px">
         </div>
       </section>
 
