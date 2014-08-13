@@ -326,9 +326,11 @@ body {
   .banner .container-banner .parrafo-fecha {
     font-size: 1.2em;
   }
-  .logo {
-    display: none;
-  }
+  /*.logo {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }*/
   .tematica {
     padding: 0;
   }

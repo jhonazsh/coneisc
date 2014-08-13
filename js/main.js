@@ -134,3 +134,17 @@ function soloTodo(){
 		$(this).show();
 	});
 }
+
+$(document).load($(window).bind("resize", checkPosition));
+
+function checkPosition()
+{
+    if($(window).width() < 769)
+    {
+        $('.left-aligned').addClass('cambia1').removeClass('left-aligned');
+    } 
+    else 
+    {
+        $('.cambia1').addClass('left-aligned').removeClass('cambia1');
+    }
+}

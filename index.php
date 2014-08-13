@@ -87,12 +87,26 @@
             </div>
             <div class="col-md-4 col-xs-6">
               <p class="alinear-centro">
+                <span class="icon-stack icon-estilo"></span>
+              </p>
+              <h4 class="headevent">Feria Tecnológica</h4>
+              <p class="alinear-centro content-event">Esta es la oportunidad de mostrar tu proyecto a toda la comunidad académica, no pierdas esta oportunidad.</p>
+            </div>
+            <div class="col-md-4 col-xs-6">
+              <p class="alinear-centro">
+                <span class="icon-accessibility icon-estilo"></span>
+              </p>
+              <h4 class="headevent">Visitas Técnicas</h4>
+              <p class="alinear-centro content-event">Esta es la oportunidad de mostrar tu proyecto a toda la comunidad académica, no pierdas esta oportunidad.</p>
+            </div>
+            <div class="col-md-4 col-xs-6">
+              <p class="alinear-centro">
                 <span class="icon-happy icon-estilo"></span>
               </p>
               <h4 class="headevent">Fiesta de Apertura</h4>
               <p class="alinear-centro content-event">La fiesta de apertura se realizará el día lunes 18 de Agosto a las 9:00 p.m en "EL ESTRIBO", ubicado en Jr San Martín N°809.</p>
             </div>
-            <div class="col-md-offset-4 col-md-4 col-xs-6">
+            <div class=" col-md-4 col-xs-6">
               <p class="alinear-centro">
                 <span class="icon-grin icon-estilo"></span>
               </p>

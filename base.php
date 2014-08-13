@@ -36,7 +36,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                 <a class="navbar-brand" href="index.php"><span class="titulo"> <img src="img/logo.png" class="logo" width="30%" height="115%"> <span class="ti">XXII CONEISC 2014</span></span></a>
+                 <a class="navbar-brand" href="index.php"><img src="img/logo.png" style="position: absolute; top: -1px; width: 120px;"></a>
 
             </div>
             <div class="navbar-collapse collapse">

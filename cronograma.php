@@ -23,7 +23,7 @@ XXII CONEISC 2014 | Cronograma
         </div>
     </div>
 
-    <div class="container">
+    <div class="container anchofull">
         <div class="row relleno-arriba-uno">
             <div class="col-md-offset-1 col-md-10 margen-arriba margen-izq" style="text-align: center;">
                 <a class="btn btn-no-fondo btn-mas titulofooter btn-cro" id="todo">Todo</a>
