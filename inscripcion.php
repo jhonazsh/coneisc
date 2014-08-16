@@ -50,11 +50,11 @@ Inscripciones a Coneisc 2014
           </div>
         </div>
       </div>
-      <div class="alinear-centro">
+      <!--<div class="alinear-centro">
         <a class="btn btn-azul" type="button" href="http://zenco.me/matricula/" target="_blank">
           Inscríbete
         </a>
-      </div>
+      </div>-->
 
     </section>
 
